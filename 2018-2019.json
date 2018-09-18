@@ -80,7 +80,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "*Math Analysis",
     "date_due": "9/18/2018",
     "student": "Atkins, Derek W",
@@ -302,6 +302,26 @@
   {
     "score": "Ungraded",
     "student_class": "US History II",
+    "date_due": "9/20/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "p. 5, 6, 7 & 8",
+    "category": "Homework",
+    "date_assigned": "9/18/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "US History II",
+    "date_due": "9/18/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Page 3 Map",
+    "category": "Classwork",
+    "date_assigned": "9/18/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "US History II",
     "date_due": "9/6/2018",
     "student": "Atkins, Heath D",
     "assignment": "Please return Handbook forms!",
@@ -322,11 +342,11 @@
   {
     "score": "Ungraded",
     "student_class": "Spanish I",
-    "date_due": "9/21/2018",
+    "date_due": "9/24/2018",
     "student": "Atkins, Heath D",
-    "assignment": "Vocabulary quiz#1",
+    "assignment": "Writing assessment",
     "category": "Quizzes",
-    "date_assigned": "9/20/2018",
+    "date_assigned": "9/18/2018",
     "quarter": "Q1"
   },
   {
@@ -622,7 +642,7 @@
   {
     "score": "Ungraded",
     "student_class": "WorldHistory II",
-    "date_due": "9/26/2018",
+    "date_due": "10/2/2018",
     "student": "Atkins, Matthew L",
     "assignment": "Unit 1 Test - Renaissance",
     "category": "Tests and Projects",
@@ -632,7 +652,7 @@
   {
     "score": "Ungraded",
     "student_class": "WorldHistory II",
-    "date_due": "9/24/2018",
+    "date_due": "9/28/2018",
     "student": "Atkins, Matthew L",
     "assignment": "Vocab",
     "category": "Homework and Classwork",
@@ -642,9 +662,19 @@
   {
     "score": "Ungraded",
     "student_class": "WorldHistory II",
-    "date_due": "9/24/2018",
+    "date_due": "9/28/2018",
     "student": "Atkins, Matthew L",
     "assignment": "Vocab Quiz",
+    "category": "Quiz",
+    "date_assigned": "9/7/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "WorldHistory II",
+    "date_due": "9/20/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Quiz - Empires, Religion, Trade",
     "category": "Quiz",
     "date_assigned": "9/7/2018",
     "quarter": "Q1"
@@ -662,27 +692,7 @@
   {
     "score": "Ungraded",
     "student_class": "WorldHistory II",
-    "date_due": "9/14/2018",
-    "student": "Atkins, Matthew L",
-    "assignment": "Quiz - Empires, Religion, Trade",
-    "category": "Quiz",
-    "date_assigned": "9/7/2018",
-    "quarter": "Q1"
-  },
-  {
-    "score": "Ungraded",
-    "student_class": "WorldHistory II",
-    "date_due": "9/12/2018",
-    "student": "Atkins, Matthew L",
-    "assignment": "Trade Posters",
-    "category": "Quiz",
-    "date_assigned": "9/10/2018",
-    "quarter": "Q1"
-  },
-  {
-    "score": "Ungraded",
-    "student_class": "WorldHistory II",
-    "date_due": "9/10/2018",
+    "date_due": "9/18/2018",
     "student": "Atkins, Matthew L",
     "assignment": "Religion Review",
     "category": "Homework and Classwork",
