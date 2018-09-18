@@ -270,6 +270,16 @@
     "quarter": "Q1"
   },
   {
+    "score": "95%",
+    "student_class": "Mathematics 5",
+    "date_due": "9/10/2018",
+    "student": "Atkins, Haley J",
+    "assignment": "Place Value",
+    "category": "Classwork and Homework",
+    "date_assigned": "9/10/2018",
+    "quarter": "Q1"
+  },
+  {
     "score": "96%",
     "student_class": "Science 5",
     "date_due": "9/10/2018",
@@ -277,6 +287,16 @@
     "assignment": "Qualitative and Qualitative data Shells",
     "category": "Classwork and Homework",
     "date_assigned": "9/10/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "History/Social Sciences 5",
+    "date_due": "10/26/2018",
+    "student": "Atkins, Haley J",
+    "assignment": "latitude longitude",
+    "category": "Classwork",
+    "date_assigned": "10/25/2018",
     "quarter": "Q1"
   },
   {
