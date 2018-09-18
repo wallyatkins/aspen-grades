@@ -22,21 +22,21 @@
   {
     "score": "Ungraded",
     "student_class": "Chemistry I",
+    "date_due": "9/17/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Unit Sheet 4.0 Book work Sci notation",
+    "category": "Homework",
+    "date_assigned": "9/10/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "83%",
+    "student_class": "Chemistry I",
     "date_due": "9/10/2018",
     "student": "Atkins, Derek W",
     "assignment": "Density Challenge write-up (mini lab)",
     "category": "Lab",
     "date_assigned": "9/7/2018",
-    "quarter": "Q1"
-  },
-  {
-    "score": "Ungraded",
-    "student_class": "Chemistry I",
-    "date_due": "9/6/2018",
-    "student": "Atkins, Derek W",
-    "assignment": "See unit sheet 6.0 (MSDS sheet)",
-    "category": "Homework",
-    "date_assigned": "9/4/2018",
     "quarter": "Q1"
   },
   {
@@ -270,6 +270,16 @@
     "quarter": "Q1"
   },
   {
+    "score": "96%",
+    "student_class": "Science 5",
+    "date_due": "9/10/2018",
+    "student": "Atkins, Haley J",
+    "assignment": "Qualitative and Qualitative data Shells",
+    "category": "Classwork and Homework",
+    "date_assigned": "9/10/2018",
+    "quarter": "Q1"
+  },
+  {
     "score": "Ungraded",
     "student_class": "US History II",
     "date_due": "9/6/2018",
@@ -292,15 +302,25 @@
   {
     "score": "Ungraded",
     "student_class": "Spanish I",
-    "date_due": "9/14/2018",
+    "date_due": "9/21/2018",
     "student": "Atkins, Heath D",
     "assignment": "Vocabulary quiz#1",
     "category": "Quizzes",
-    "date_assigned": "9/7/2018",
+    "date_assigned": "9/20/2018",
     "quarter": "Q1"
   },
   {
     "score": "Ungraded",
+    "student_class": "Spanish I",
+    "date_due": "9/18/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Flashcards column 2 sections 1& 2",
+    "category": "Classwork-Homework",
+    "date_assigned": "9/17/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "0%",
     "student_class": "Spanish I",
     "date_due": "9/11/2018",
     "student": "Atkins, Heath D",
@@ -440,7 +460,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "0%",
     "student_class": "Life Science 7",
     "date_due": "9/21/2018",
     "student": "Atkins, Heath D",
@@ -670,6 +690,16 @@
     "quarter": "Q1"
   },
   {
+    "score": "100%",
+    "student_class": "AtmoSci/Climat",
+    "date_due": "9/17/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "egg challenge",
+    "category": "Classwork",
+    "date_assigned": "9/17/2018",
+    "quarter": "Q1"
+  },
+  {
     "score": "Ungraded",
     "student_class": "*AdvEnglish10",
     "date_due": "9/24/2018",
@@ -721,6 +751,36 @@
   },
   {
     "score": "Ungraded",
+    "student_class": "French I",
+    "date_due": "9/25/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Quiz on 1A vocabulary",
+    "category": "Quizzes",
+    "date_assigned": "9/25/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "French I",
+    "date_due": "9/19/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Number Chart",
+    "category": "Classwork/ Homework",
+    "date_assigned": "9/17/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "French I",
+    "date_due": "9/7/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Vocabulary list 1A",
+    "category": "Classwork/ Homework",
+    "date_assigned": "9/7/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
     "student_class": "Algebra II A",
     "date_due": "9/21/2018",
     "student": "Atkins, Matthew L",
@@ -740,7 +800,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Algebra II A",
     "date_due": "9/17/2018",
     "student": "Atkins, Matthew L",
@@ -750,7 +810,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Algebra II A",
     "date_due": "9/17/2018",
     "student": "Atkins, Matthew L",
