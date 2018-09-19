@@ -12,7 +12,7 @@
   {
     "score": "Ungraded",
     "student_class": "Chemistry I",
-    "date_due": "9/18/2018",
+    "date_due": "9/21/2018",
     "student": "Atkins, Derek W",
     "assignment": "Unit 1 Quiz",
     "category": "Quiz",
@@ -21,6 +21,16 @@
   },
   {
     "score": "Ungraded",
+    "student_class": "Chemistry I",
+    "date_due": "9/19/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "From Unit sheet 7.0 Sig. Figures textbook work",
+    "category": "Homework",
+    "date_assigned": "9/18/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
     "student_class": "Chemistry I",
     "date_due": "9/17/2018",
     "student": "Atkins, Derek W",
@@ -162,6 +172,16 @@
   {
     "score": "100%",
     "student_class": "Chorus II",
+    "date_due": "9/19/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "DP3",
+    "category": "Daily Participation",
+    "date_assigned": "9/19/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Chorus II",
     "date_due": "9/17/2018",
     "student": "Atkins, Derek W",
     "assignment": "DP2",
@@ -187,6 +207,16 @@
     "assignment": "DP1",
     "category": "Daily Participation",
     "date_assigned": "9/7/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*Spanish IV",
+    "date_due": "9/25/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Quiz for vocabulary Lesson 1",
+    "category": "Formative evaluation",
+    "date_assigned": "9/19/2018",
     "quarter": "Q1"
   },
   {
@@ -360,7 +390,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "0%",
+    "score": "100%",
     "student_class": "Spanish I",
     "date_due": "9/11/2018",
     "student": "Atkins, Heath D",
@@ -500,7 +530,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "0%",
+    "score": "Ungraded",
     "student_class": "Life Science 7",
     "date_due": "9/21/2018",
     "student": "Atkins, Heath D",
@@ -510,7 +540,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Life Science 7",
     "date_due": "9/19/2018",
     "student": "Atkins, Heath D",
@@ -520,7 +550,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "0%",
     "student_class": "Life Science 7",
     "date_due": "9/11/2018",
     "student": "Atkins, Heath D",
@@ -530,7 +560,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Life Science 7",
     "date_due": "9/11/2018",
     "student": "Atkins, Heath D",
@@ -637,6 +667,16 @@
     "assignment": "Who Ya Gonna Call (Matching areas of Forensic Sci)",
     "category": "Classwork",
     "date_assigned": "9/6/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "WorldHistory II",
+    "date_due": "10/2/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Renaissanace Review Folder",
+    "category": "Quiz",
+    "date_assigned": "9/18/2018",
     "quarter": "Q1"
   },
   {
@@ -792,6 +832,16 @@
   {
     "score": "Ungraded",
     "student_class": "French I",
+    "date_due": "9/21/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "5 word associations from vocabulary list",
+    "category": "Classwork/ Homework",
+    "date_assigned": "9/19/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "French I",
     "date_due": "9/19/2018",
     "student": "Atkins, Matthew L",
     "assignment": "Number Chart",
@@ -800,13 +850,33 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
+    "student_class": "French I",
+    "date_due": "9/17/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Use vocab list to create dialouges",
+    "category": "Classwork/ Homework",
+    "date_assigned": "9/17/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
     "student_class": "French I",
     "date_due": "9/7/2018",
     "student": "Atkins, Matthew L",
     "assignment": "Vocabulary list 1A",
     "category": "Classwork/ Homework",
     "date_assigned": "9/7/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "French I",
+    "date_due": "9/5/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Write down as many French words you know",
+    "category": "Classwork/ Homework",
+    "date_assigned": "9/5/2018",
     "quarter": "Q1"
   },
   {
