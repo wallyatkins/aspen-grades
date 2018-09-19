@@ -814,9 +814,29 @@
     "student_class": "Algebra II A",
     "date_due": "9/21/2018",
     "student": "Atkins, Matthew L",
+    "assignment": "Practice 5.4(1-6,13,14,17,19)",
+    "category": "Daily",
+    "date_assigned": "9/19/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Algebra II A",
+    "date_due": "9/21/2018",
+    "student": "Atkins, Matthew L",
     "assignment": "Quiz 5.1,5.3",
     "category": "Quiz",
     "date_assigned": "9/21/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Algebra II A",
+    "date_due": "9/21/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Sum/Difference of Cubes ws (front)",
+    "category": "Daily",
+    "date_assigned": "9/19/2018",
     "quarter": "Q1"
   },
   {
