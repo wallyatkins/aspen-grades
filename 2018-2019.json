@@ -230,6 +230,26 @@
     "quarter": "Q1"
   },
   {
+    "score": "Ungraded",
+    "student_class": "*Spanish IV",
+    "date_due": "9/21/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "VHL listening activities",
+    "category": "CLSSWK/HW",
+    "date_assigned": "9/20/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*Spanish IV",
+    "date_due": "9/20/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "In class interview",
+    "category": "Comunicative Activities",
+    "date_assigned": "9/18/2018",
+    "quarter": "Q1"
+  },
+  {
     "score": "100%",
     "student_class": "*Spanish IV",
     "date_due": "9/12/2018",
@@ -250,7 +270,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "*Spanish IV",
     "date_due": "9/6/2018",
     "student": "Atkins, Derek W",
@@ -310,6 +330,26 @@
     "quarter": "Q1"
   },
   {
+    "score": "Ungraded",
+    "student_class": "Mathematics 5",
+    "date_due": "9/20/2018",
+    "student": "Atkins, Haley J",
+    "assignment": "place value, comp order, rounding decimals",
+    "category": "Quizzes and Projects",
+    "date_assigned": "9/20/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Mathematics 5",
+    "date_due": "9/19/2018",
+    "student": "Atkins, Haley J",
+    "assignment": "Even and Odd numbers",
+    "category": "Classwork and Homework",
+    "date_assigned": "9/19/2018",
+    "quarter": "Q1"
+  },
+  {
     "score": "95%",
     "student_class": "Mathematics 5",
     "date_due": "9/10/2018",
@@ -317,6 +357,16 @@
     "assignment": "Place Value",
     "category": "Classwork and Homework",
     "date_assigned": "9/10/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Science 5",
+    "date_due": "9/25/2018",
+    "student": "Atkins, Haley J",
+    "assignment": "Scientific Method Test",
+    "category": "tests",
+    "date_assigned": "9/25/2018",
     "quarter": "Q1"
   },
   {
