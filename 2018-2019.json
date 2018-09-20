@@ -52,7 +52,7 @@
   {
     "score": "Ungraded",
     "student_class": "WorldHistory II",
-    "date_due": "9/26/2018",
+    "date_due": "9/28/2018",
     "student": "Atkins, Derek W",
     "assignment": "Renaissance Test",
     "category": "test",
@@ -62,11 +62,21 @@
   {
     "score": "Ungraded",
     "student_class": "WorldHistory II",
-    "date_due": "9/14/2018",
+    "date_due": "9/21/2018",
     "student": "Atkins, Derek W",
     "assignment": "Quiz",
     "category": "Quiz grades",
     "date_assigned": "9/3/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "WorldHistory II",
+    "date_due": "9/20/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Trade Route Poster Activity",
+    "category": "Classwork and Homework",
+    "date_assigned": "9/20/2018",
     "quarter": "Q1"
   },
   {
@@ -366,6 +376,36 @@
     "student": "Atkins, Heath D",
     "assignment": "Return Signed Syllabus",
     "category": "Homework",
+    "date_assigned": "9/4/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "96%",
+    "student_class": "Adv. English 7",
+    "date_due": "9/18/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Homonym Practice",
+    "category": "Classwork",
+    "date_assigned": "9/18/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Adv. English 7",
+    "date_due": "9/18/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Homonyms HW",
+    "category": "Homework",
+    "date_assigned": "9/18/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Adv. English 7",
+    "date_due": "9/4/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Reading and Writing Survey",
+    "category": "Classwork",
     "date_assigned": "9/4/2018",
     "quarter": "Q1"
   },
@@ -877,6 +917,16 @@
     "assignment": "Write down as many French words you know",
     "category": "Classwork/ Homework",
     "date_assigned": "9/5/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Algebra II A",
+    "date_due": "9/25/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Difference of Squares ws (odds)",
+    "category": "Daily",
+    "date_assigned": "9/21/2018",
     "quarter": "Q1"
   },
   {
