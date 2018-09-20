@@ -20,7 +20,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Chemistry I",
     "date_due": "9/19/2018",
     "student": "Atkins, Derek W",
@@ -317,6 +317,26 @@
     "assignment": "Place Value",
     "category": "Classwork and Homework",
     "date_assigned": "9/10/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Science 5",
+    "date_due": "9/20/2018",
+    "student": "Atkins, Haley J",
+    "assignment": "Bounty lab",
+    "category": "Classwork and Homework",
+    "date_assigned": "9/20/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Science 5",
+    "date_due": "9/18/2018",
+    "student": "Atkins, Haley J",
+    "assignment": "Egg float lab",
+    "category": "Classwork and Homework",
+    "date_assigned": "9/18/2018",
     "quarter": "Q1"
   },
   {
