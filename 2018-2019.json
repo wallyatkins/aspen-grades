@@ -80,12 +80,32 @@
     "quarter": "Q1"
   },
   {
+    "score": "Ungraded",
+    "student_class": "WorldHistory II",
+    "date_due": "9/24/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Folder Participation P1",
+    "category": "Classwork and Homework",
+    "date_assigned": "9/24/2018",
+    "quarter": "Q1"
+  },
+  {
     "score": "100%",
     "student_class": "WorldHistory II",
     "date_due": "9/24/2018",
     "student": "Atkins, Derek W",
     "assignment": "Map/Projection",
     "category": "Classwork and Homework",
+    "date_assigned": "9/24/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "93%",
+    "student_class": "WorldHistory II",
+    "date_due": "9/24/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Review Foldable",
+    "category": "Quiz grades",
     "date_assigned": "9/24/2018",
     "quarter": "Q1"
   },
@@ -130,6 +150,36 @@
     "quarter": "Q1"
   },
   {
+    "score": "Ungraded",
+    "student_class": "*Math Analysis",
+    "date_due": "9/26/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "P227;17-31o,53-61o,69,75,79-89o,101-107o",
+    "category": "Homework/Classwork",
+    "date_assigned": "9/24/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*Math Analysis",
+    "date_due": "9/26/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Quiz 1.4 - 1.6",
+    "category": "Quiz",
+    "date_assigned": "9/26/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "*Math Analysis",
+    "date_due": "9/24/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "P199; 1-9o,19-29o,35-41o,59-71o,P212;5-12",
+    "category": "Homework/Classwork",
+    "date_assigned": "9/20/2018",
+    "quarter": "Q1"
+  },
+  {
     "score": "100%",
     "student_class": "*Math Analysis",
     "date_due": "9/18/2018",
@@ -140,7 +190,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "37%",
     "student_class": "*Math Analysis",
     "date_due": "9/18/2018",
     "student": "Atkins, Derek W",
@@ -270,6 +320,16 @@
     "quarter": "Q1"
   },
   {
+    "score": "100%",
+    "student_class": "*Spanish IV",
+    "date_due": "9/24/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Lesson 1 Listening",
+    "category": "Comunicative Activities",
+    "date_assigned": "9/24/2018",
+    "quarter": "Q1"
+  },
+  {
     "score": "93%",
     "student_class": "*Spanish IV",
     "date_due": "9/21/2018",
@@ -317,6 +377,16 @@
     "assignment": "Email to a friend",
     "category": "Additional in class activities",
     "date_assigned": "9/6/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*AdvEnglish10",
+    "date_due": "9/27/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Vocabulary Unit 1 Homework",
+    "category": "Homework",
+    "date_assigned": "9/25/2018",
     "quarter": "Q1"
   },
   {
@@ -772,17 +842,17 @@
   {
     "score": "Ungraded",
     "student_class": "Intro Prog/Game Design",
-    "date_due": "9/21/2018",
+    "date_due": "10/2/2018",
     "student": "Atkins, Heath D",
-    "assignment": "Code.org Progression 1-15",
-    "category": "Projects",
-    "date_assigned": "9/10/2018",
+    "assignment": "Code.org 11-20",
+    "category": "Habits and Journal",
+    "date_assigned": "9/24/2018",
     "quarter": "Q1"
   },
   {
     "score": "Ungraded",
     "student_class": "Intro Prog/Game Design",
-    "date_due": "9/20/2018",
+    "date_due": "10/2/2018",
     "student": "Atkins, Heath D",
     "assignment": "Quiz: Unit 1 Computer Basics",
     "category": "Quizzes",
@@ -792,11 +862,21 @@
   {
     "score": "Ungraded",
     "student_class": "Intro Prog/Game Design",
-    "date_due": "9/19/2018",
+    "date_due": "9/28/2018",
     "student": "Atkins, Heath D",
     "assignment": "Vocabulary Unit 1",
     "category": "Habits and Journal",
     "date_assigned": "9/12/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Intro Prog/Game Design",
+    "date_due": "9/21/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Code.org Progression 1-11",
+    "category": "Projects",
+    "date_assigned": "9/10/2018",
     "quarter": "Q1"
   },
   {
@@ -1002,6 +1082,16 @@
   {
     "score": "Ungraded",
     "student_class": "*AdvEnglish10",
+    "date_due": "9/26/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Vocabulary Unit 1 Homework",
+    "category": "Homework",
+    "date_assigned": "9/24/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*AdvEnglish10",
     "date_due": "9/24/2018",
     "student": "Atkins, Matthew L",
     "assignment": "Character Recipe Cards",
@@ -1107,6 +1197,26 @@
     "assignment": "Write down as many French words you know",
     "category": "Classwork/ Homework",
     "date_assigned": "9/5/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Algebra II A",
+    "date_due": "9/27/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Trinomial ws a=1 (odds)",
+    "category": "Daily",
+    "date_assigned": "9/25/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Algebra II A",
+    "date_due": "9/27/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Trinomials ws a>1 (front odds)",
+    "category": "Daily",
+    "date_assigned": "9/25/2018",
     "quarter": "Q1"
   },
   {
