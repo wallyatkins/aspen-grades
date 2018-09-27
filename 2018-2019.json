@@ -12,6 +12,36 @@
   {
     "score": "Ungraded",
     "student_class": "Chemistry I",
+    "date_due": "9/28/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Memorizing the diatomic elements Quiz",
+    "category": "Quiz",
+    "date_assigned": "9/27/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Chemistry I",
+    "date_due": "9/28/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Test Review Unit 1",
+    "category": "Homework",
+    "date_assigned": "9/26/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Chemistry I",
+    "date_due": "9/28/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Unit Sheet 5.0",
+    "category": "Homework",
+    "date_assigned": "9/26/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Chemistry I",
     "date_due": "9/26/2018",
     "student": "Atkins, Derek W",
     "assignment": "1.0 & 2.0 from Unit sheet (atoms, elements,etc)",
@@ -90,6 +120,16 @@
     "quarter": "Q1"
   },
   {
+    "score": "Ungraded",
+    "student_class": "WorldHistory II",
+    "date_due": "9/27/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Renaissance Folder",
+    "category": "Quiz grades",
+    "date_assigned": "9/27/2018",
+    "quarter": "Q1"
+  },
+  {
     "score": "100%",
     "student_class": "WorldHistory II",
     "date_due": "9/24/2018",
@@ -120,7 +160,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "97%",
+    "score": "100%",
     "student_class": "WorldHistory II",
     "date_due": "9/21/2018",
     "student": "Atkins, Derek W",
@@ -160,7 +200,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "*Math Analysis",
     "date_due": "9/26/2018",
     "student": "Atkins, Derek W",
@@ -232,6 +272,26 @@
   {
     "score": "Ungraded",
     "student_class": "Chorus II",
+    "date_due": "12/11/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Winter Concert",
+    "category": "Rehearsal-Performance",
+    "date_assigned": "9/27/2018",
+    "quarter": "Q2"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Chorus II",
+    "date_due": "12/2/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "St. Luke's",
+    "category": "Daily Participation",
+    "date_assigned": "9/27/2018",
+    "quarter": "Q2"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Chorus II",
     "date_due": "11/3/2018",
     "student": "Atkins, Derek W",
     "assignment": "District Chorus Auditions Continued",
@@ -277,6 +337,16 @@
     "assignment": "Meeting",
     "category": "Daily Participation",
     "date_assigned": "9/26/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Chorus II",
+    "date_due": "9/27/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "DP6",
+    "category": "Daily Participation",
+    "date_assigned": "9/27/2018",
     "quarter": "Q1"
   },
   {
@@ -337,6 +407,26 @@
     "assignment": "DP1",
     "category": "Daily Participation",
     "date_assigned": "9/7/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*Spanish IV",
+    "date_due": "9/27/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Busquemos un amigo/a writing",
+    "category": "Comunicative Activities",
+    "date_assigned": "9/27/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*Spanish IV",
+    "date_due": "9/27/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "In class VHL Practice",
+    "category": "CLSSWK/HW",
+    "date_assigned": "9/26/2018",
     "quarter": "Q1"
   },
   {
@@ -407,6 +497,36 @@
     "assignment": "Email to a friend",
     "category": "Additional in class activities",
     "date_assigned": "9/6/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*AdvEnglish10",
+    "date_due": "10/11/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Vocabulary Unit 2 Homework",
+    "category": "Homework",
+    "date_assigned": "10/9/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*AdvEnglish10",
+    "date_due": "10/9/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Oedipus Questions",
+    "category": "Homework",
+    "date_assigned": "9/27/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*AdvEnglish10",
+    "date_due": "10/9/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Vocabulary Unit 1 Quiz",
+    "category": "Quiz",
+    "date_assigned": "9/25/2018",
     "quarter": "Q1"
   },
   {
@@ -550,7 +670,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "96%",
     "student_class": "Science 5",
     "date_due": "9/25/2018",
     "student": "Atkins, Haley J",
@@ -587,6 +707,36 @@
     "assignment": "Qualitative and Qualitative data Shells",
     "category": "Classwork and Homework",
     "date_assigned": "9/10/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "US History II",
+    "date_due": "10/2/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Reconstruction Test",
+    "category": "TestProj",
+    "date_assigned": "9/26/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "US History II",
+    "date_due": "9/28/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "review for Reconstruction Test",
+    "category": "Homework",
+    "date_assigned": "9/26/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "US History II",
+    "date_due": "9/25/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Regions Project",
+    "category": "TestProj",
+    "date_assigned": "9/18/2018",
     "quarter": "Q1"
   },
   {
@@ -667,6 +817,26 @@
     "assignment": "Summer Reading Graphic Org Chart",
     "category": "Classwork",
     "date_assigned": "9/4/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Spanish I",
+    "date_due": "9/28/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Quiz on Nouns and Articles",
+    "category": "Quizzes",
+    "date_assigned": "9/24/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Spanish I",
+    "date_due": "9/26/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Flashcards column 3 sections",
+    "category": "Classwork-Homework",
+    "date_assigned": "9/24/2018",
     "quarter": "Q1"
   },
   {
@@ -872,7 +1042,7 @@
   {
     "score": "Ungraded",
     "student_class": "Intro Prog/Game Design",
-    "date_due": "10/2/2018",
+    "date_due": "10/3/2018",
     "student": "Atkins, Heath D",
     "assignment": "Code.org 11-20",
     "category": "Habits and Journal",
@@ -882,9 +1052,9 @@
   {
     "score": "Ungraded",
     "student_class": "Intro Prog/Game Design",
-    "date_due": "10/2/2018",
+    "date_due": "10/3/2018",
     "student": "Atkins, Heath D",
-    "assignment": "Quiz: Unit 1 Computer Basics",
+    "assignment": "Quiz: Unit 1 Vocabulary/Computer Basics",
     "category": "Quizzes",
     "date_assigned": "9/10/2018",
     "quarter": "Q1"
@@ -894,7 +1064,7 @@
     "student_class": "Intro Prog/Game Design",
     "date_due": "9/28/2018",
     "student": "Atkins, Heath D",
-    "assignment": "Vocabulary Unit 1",
+    "assignment": "Unit 1: Journal Check",
     "category": "Habits and Journal",
     "date_assigned": "9/12/2018",
     "quarter": "Q1"
@@ -950,7 +1120,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "78%",
+    "score": "83%",
     "student_class": "Algebra I A",
     "date_due": "9/21/2018",
     "student": "Atkins, Heath D",
@@ -997,6 +1167,16 @@
     "assignment": "Rational Number WS & p.67 (1-4 all, 15-21 odd)",
     "category": "Classwork and Homework",
     "date_assigned": "9/5/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Intro. Forensic Science",
+    "date_due": "9/26/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Temp Check of Pig Ft.",
+    "category": "Quizzes",
+    "date_assigned": "9/26/2018",
     "quarter": "Q1"
   },
   {
@@ -1217,6 +1397,36 @@
     "assignment": "rq3,6,8,9",
     "category": "Classwork",
     "date_assigned": "9/17/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*AdvEnglish10",
+    "date_due": "10/10/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Vocabulary Unit 2 Homework",
+    "category": "Homework",
+    "date_assigned": "10/8/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*AdvEnglish10",
+    "date_due": "10/8/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Oedipus Questions",
+    "category": "Homework",
+    "date_assigned": "9/26/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*AdvEnglish10",
+    "date_due": "10/8/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Vocabulary Unit 1 Quiz",
+    "category": "Quiz",
+    "date_assigned": "9/24/2018",
     "quarter": "Q1"
   },
   {
