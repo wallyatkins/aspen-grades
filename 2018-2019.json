@@ -350,6 +350,16 @@
     "quarter": "Q1"
   },
   {
+    "score": "100%",
+    "student_class": "Chorus II",
+    "date_due": "10/1/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "DP7",
+    "category": "Daily Participation",
+    "date_assigned": "10/1/2018",
+    "quarter": "Q1"
+  },
+  {
     "score": "Ungraded",
     "student_class": "Chorus II",
     "date_due": "10/1/2018",
@@ -731,6 +741,16 @@
   },
   {
     "score": "Ungraded",
+    "student_class": "History/Social Sciences 5",
+    "date_due": "10/26/2018",
+    "student": "Atkins, Haley J",
+    "assignment": "latitude and longitude",
+    "category": "Classwork",
+    "date_assigned": "10/26/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
     "student_class": "US History II",
     "date_due": "10/2/2018",
     "student": "Atkins, Heath D",
@@ -827,6 +847,16 @@
     "assignment": "Return Signed Syllabus",
     "category": "Homework",
     "date_assigned": "9/4/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "90%",
+    "student_class": "Adv. English 7",
+    "date_due": "9/26/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Wordly Wise #1 quiz",
+    "category": "Quizzes",
+    "date_assigned": "9/26/2018",
     "quarter": "Q1"
   },
   {
@@ -1040,7 +1070,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Life Science 7",
     "date_due": "10/1/2018",
     "student": "Atkins, Heath D",
@@ -1147,6 +1177,16 @@
     "assignment": "Research: Computer History",
     "category": "Habits and Journal",
     "date_assigned": "9/11/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Algebra I A",
+    "date_due": "10/1/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Properties WS",
+    "category": "Classwork and Homework",
+    "date_assigned": "9/28/2018",
     "quarter": "Q1"
   },
   {
@@ -1362,6 +1402,16 @@
   {
     "score": "Ungraded",
     "student_class": "WorldHistory II",
+    "date_due": "10/30/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Quarter 1 Book Talk Project",
+    "category": "Tests and Projects",
+    "date_assigned": "9/26/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "WorldHistory II",
     "date_due": "10/2/2018",
     "student": "Atkins, Matthew L",
     "assignment": "Renaissanace Review Folder",
@@ -1540,7 +1590,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "82%",
     "student_class": "*AdvEnglish10",
     "date_due": "9/20/2018",
     "student": "Atkins, Matthew L",
