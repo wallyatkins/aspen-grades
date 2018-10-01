@@ -4,13 +4,33 @@
     "student_class": "Chemistry I",
     "date_due": "10/2/2018",
     "student": "Atkins, Derek W",
+    "assignment": "3.0 Graph from Unit Sheet",
+    "category": "Homework",
+    "date_assigned": "9/28/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Chemistry I",
+    "date_due": "10/2/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Activity Log Unit 1 (all classwork for Unit)",
+    "category": "Classwork",
+    "date_assigned": "9/4/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Chemistry I",
+    "date_due": "10/2/2018",
+    "student": "Atkins, Derek W",
     "assignment": "Unit 1 Test",
     "category": "Tests",
     "date_assigned": "10/2/2018",
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "93%",
     "student_class": "Chemistry I",
     "date_due": "9/28/2018",
     "student": "Atkins, Derek W",
@@ -30,7 +50,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "0%",
     "student_class": "Chemistry I",
     "date_due": "9/28/2018",
     "student": "Atkins, Derek W",
@@ -40,7 +60,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Chemistry I",
     "date_due": "9/26/2018",
     "student": "Atkins, Derek W",
@@ -420,7 +440,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "*Spanish IV",
     "date_due": "9/27/2018",
     "student": "Atkins, Derek W",
@@ -430,7 +450,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "73%",
     "student_class": "*Spanish IV",
     "date_due": "9/25/2018",
     "student": "Atkins, Derek W",
@@ -530,7 +550,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "105%",
     "student_class": "*AdvEnglish10",
     "date_due": "9/27/2018",
     "student": "Atkins, Derek W",
@@ -722,6 +742,26 @@
   {
     "score": "Ungraded",
     "student_class": "US History II",
+    "date_due": "10/2/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Think Like An Historian - Reconstruction",
+    "category": "Quizzes",
+    "date_assigned": "9/28/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "US History II",
+    "date_due": "9/28/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Quotation Walk and Test Review",
+    "category": "Classwork",
+    "date_assigned": "9/28/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "US History II",
     "date_due": "9/28/2018",
     "student": "Atkins, Heath D",
     "assignment": "review for Reconstruction Test",
@@ -736,6 +776,16 @@
     "student": "Atkins, Heath D",
     "assignment": "Regions Project",
     "category": "TestProj",
+    "date_assigned": "9/18/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "US History II",
+    "date_due": "9/25/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "States/Regions page 9",
+    "category": "Quizzes",
     "date_assigned": "9/18/2018",
     "quarter": "Q1"
   },
@@ -822,6 +872,16 @@
   {
     "score": "Ungraded",
     "student_class": "Spanish I",
+    "date_due": "10/1/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "On Supersite Estructura/Practice Activities/Plural",
+    "category": "Classwork-Homework",
+    "date_assigned": "9/27/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Spanish I",
     "date_due": "9/28/2018",
     "student": "Atkins, Heath D",
     "assignment": "Quiz on Nouns and Articles",
@@ -840,7 +900,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Spanish I",
     "date_due": "9/24/2018",
     "student": "Atkins, Heath D",
@@ -1042,17 +1102,7 @@
   {
     "score": "Ungraded",
     "student_class": "Intro Prog/Game Design",
-    "date_due": "10/3/2018",
-    "student": "Atkins, Heath D",
-    "assignment": "Code.org 11-20",
-    "category": "Habits and Journal",
-    "date_assigned": "9/24/2018",
-    "quarter": "Q1"
-  },
-  {
-    "score": "Ungraded",
-    "student_class": "Intro Prog/Game Design",
-    "date_due": "10/3/2018",
+    "date_due": "10/4/2018",
     "student": "Atkins, Heath D",
     "assignment": "Quiz: Unit 1 Vocabulary/Computer Basics",
     "category": "Quizzes",
@@ -1061,6 +1111,16 @@
   },
   {
     "score": "Ungraded",
+    "student_class": "Intro Prog/Game Design",
+    "date_due": "10/2/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Code.org 11-20",
+    "category": "Habits and Journal",
+    "date_assigned": "9/24/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "90%",
     "student_class": "Intro Prog/Game Design",
     "date_due": "9/28/2018",
     "student": "Atkins, Heath D",
@@ -1172,10 +1232,40 @@
   {
     "score": "Ungraded",
     "student_class": "Intro. Forensic Science",
+    "date_due": "9/28/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Forensic Entomology Notes",
+    "category": "Classwork",
+    "date_assigned": "9/28/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Intro. Forensic Science",
+    "date_due": "9/28/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Pig Ft Temp Check",
+    "category": "Quizzes-Lab",
+    "date_assigned": "9/28/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Intro. Forensic Science",
+    "date_due": "9/27/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "CSU \"Two Bodies\" found in the woods!",
+    "category": "Classwork",
+    "date_assigned": "9/27/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Intro. Forensic Science",
     "date_due": "9/26/2018",
     "student": "Atkins, Heath D",
     "assignment": "Temp Check of Pig Ft.",
-    "category": "Quizzes",
+    "category": "Quizzes-Lab",
     "date_assigned": "9/26/2018",
     "quarter": "Q1"
   },
@@ -1205,7 +1295,7 @@
     "date_due": "9/25/2018",
     "student": "Atkins, Heath D",
     "assignment": "Pigs Foot Placement",
-    "category": "Quizzes",
+    "category": "Quizzes-Lab",
     "date_assigned": "9/25/2018",
     "quarter": "Q1"
   },
@@ -1330,7 +1420,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "91%",
     "student_class": "WorldHistory II",
     "date_due": "9/18/2018",
     "student": "Atkins, Matthew L",
@@ -1430,7 +1520,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "0%",
     "student_class": "*AdvEnglish10",
     "date_due": "9/26/2018",
     "student": "Atkins, Matthew L",
@@ -1570,7 +1660,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Algebra II A",
     "date_due": "9/27/2018",
     "student": "Atkins, Matthew L",
@@ -1580,7 +1670,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Algebra II A",
     "date_due": "9/27/2018",
     "student": "Atkins, Matthew L",
@@ -1590,7 +1680,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Algebra II A",
     "date_due": "9/25/2018",
     "student": "Atkins, Matthew L",
@@ -1610,7 +1700,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "64%",
     "student_class": "Algebra II A",
     "date_due": "9/21/2018",
     "student": "Atkins, Matthew L",
