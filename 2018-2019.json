@@ -10,7 +10,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "92%",
     "student_class": "Chemistry I",
     "date_due": "10/2/2018",
     "student": "Atkins, Derek W",
@@ -40,7 +40,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "88%",
     "student_class": "Chemistry I",
     "date_due": "9/28/2018",
     "student": "Atkins, Derek W",
@@ -1180,6 +1180,16 @@
     "quarter": "Q1"
   },
   {
+    "score": "98%",
+    "student_class": "Algebra I A",
+    "date_due": "10/1/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Expressions, Open Sent, OOO, Properties",
+    "category": "Quiz",
+    "date_assigned": "10/1/2018",
+    "quarter": "Q1"
+  },
+  {
     "score": "100%",
     "student_class": "Algebra I A",
     "date_due": "10/1/2018",
@@ -1434,7 +1444,17 @@
     "student_class": "WorldHistory II",
     "date_due": "9/28/2018",
     "student": "Atkins, Matthew L",
-    "assignment": "Vocab",
+    "assignment": "Unit 1 Vocab List",
+    "category": "Homework and Classwork",
+    "date_assigned": "9/6/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "WorldHistory II",
+    "date_due": "9/28/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Vocab Choice Board",
     "category": "Homework and Classwork",
     "date_assigned": "9/6/2018",
     "quarter": "Q1"
@@ -1687,6 +1707,36 @@
     "assignment": "Write down as many French words you know",
     "category": "Classwork/ Homework",
     "date_assigned": "9/5/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Algebra II A",
+    "date_due": "10/9/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Unit 1 Test",
+    "category": "Test",
+    "date_assigned": "10/9/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Algebra II A",
+    "date_due": "10/5/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "More Mixed Factoring worksheet(back)",
+    "category": "Daily",
+    "date_assigned": "10/3/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Algebra II A",
+    "date_due": "10/5/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Unit 1 Study Guide",
+    "category": "Daily",
+    "date_assigned": "10/3/2018",
     "quarter": "Q1"
   },
   {
