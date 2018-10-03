@@ -1,6 +1,6 @@
 [
   {
-    "score": "Ungraded",
+    "score": "0%",
     "student_class": "Chemistry I",
     "date_due": "10/2/2018",
     "student": "Atkins, Derek W",
@@ -20,7 +20,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "85%",
     "student_class": "Chemistry I",
     "date_due": "10/2/2018",
     "student": "Atkins, Derek W",
@@ -130,7 +130,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "90%",
     "student_class": "WorldHistory II",
     "date_due": "10/2/2018",
     "student": "Atkins, Derek W",
@@ -220,6 +220,46 @@
     "quarter": "Q1"
   },
   {
+    "score": "Ungraded",
+    "student_class": "*Math Analysis",
+    "date_due": "10/8/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Test Chapter 1",
+    "category": "Unit Test",
+    "date_assigned": "10/8/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*Math Analysis",
+    "date_due": "10/4/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "P254;5,7,17,27,29,36,37,41,43,47,49,63,64",
+    "category": "Homework/Classwork",
+    "date_assigned": "10/2/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*Math Analysis",
+    "date_due": "10/4/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Quiz 1.7 - 1.8",
+    "category": "Quiz",
+    "date_assigned": "10/4/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "*Math Analysis",
+    "date_due": "10/2/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "P242;5,7,21,23,31,35,47,53,55,61,71,77,83,85,91",
+    "category": "Homework/Classwork",
+    "date_assigned": "9/30/2018",
+    "quarter": "Q1"
+  },
+  {
     "score": "100%",
     "student_class": "*Math Analysis",
     "date_due": "9/26/2018",
@@ -230,7 +270,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "79%",
     "student_class": "*Math Analysis",
     "date_due": "9/26/2018",
     "student": "Atkins, Derek W",
@@ -347,6 +387,16 @@
     "assignment": "Cookie Dough Fundraiser",
     "category": "Daily Participation",
     "date_assigned": "9/6/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Chorus II",
+    "date_due": "10/3/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "DP8",
+    "category": "Daily Participation",
+    "date_assigned": "10/3/2018",
     "quarter": "Q1"
   },
   {
@@ -620,7 +670,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "96%",
     "student_class": "Mathematics 5",
     "date_due": "10/2/2018",
     "student": "Atkins, Haley J",
@@ -632,11 +682,11 @@
   {
     "score": "Ungraded",
     "student_class": "Mathematics 5",
-    "date_due": "9/28/2018",
+    "date_due": "10/1/2018",
     "student": "Atkins, Haley J",
-    "assignment": "Quiz Order of Operations",
-    "category": "Quizzes and Projects",
-    "date_assigned": "9/28/2018",
+    "assignment": "Unit 1&2",
+    "category": "Classwork and Homework",
+    "date_assigned": "10/1/2018",
     "quarter": "Q1"
   },
   {
@@ -900,7 +950,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Spanish I",
     "date_due": "10/1/2018",
     "student": "Atkins, Heath D",
@@ -1060,7 +1110,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Life Science 7",
     "date_due": "10/3/2018",
     "student": "Atkins, Heath D",
@@ -1070,7 +1120,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Life Science 7",
     "date_due": "10/3/2018",
     "student": "Atkins, Heath D",
@@ -1150,7 +1200,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "98%",
     "student_class": "Intro Prog/Game Design",
     "date_due": "10/2/2018",
     "student": "Atkins, Heath D",
@@ -1187,6 +1237,16 @@
     "assignment": "Research: Computer History",
     "category": "Habits and Journal",
     "date_assigned": "9/11/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Algebra I A",
+    "date_due": "10/3/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Distributive Prop WS 1-20 (back of notes)",
+    "category": "Classwork and Homework",
+    "date_assigned": "10/1/2018",
     "quarter": "Q1"
   },
   {
@@ -1287,6 +1347,26 @@
     "assignment": "Rational Number WS & p.67 (1-4 all, 15-21 odd)",
     "category": "Classwork and Homework",
     "date_assigned": "9/5/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Intro. Forensic Science",
+    "date_due": "10/3/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Forensic Entomology Test Review",
+    "category": "Classwork",
+    "date_assigned": "10/3/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Intro. Forensic Science",
+    "date_due": "10/3/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Vocab for \"A Bug for Research\"",
+    "category": "Classwork",
+    "date_assigned": "10/3/2018",
     "quarter": "Q1"
   },
   {
