@@ -780,7 +780,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "US History II",
     "date_due": "9/28/2018",
     "student": "Atkins, Heath D",
@@ -935,7 +935,7 @@
     "date_due": "9/24/2018",
     "student": "Atkins, Heath D",
     "assignment": "Writing assessment write a conversation (greetings",
-    "category": "Quizzes",
+    "category": "Tests",
     "date_assigned": "9/18/2018",
     "quarter": "Q1"
   },
@@ -1067,6 +1067,16 @@
     "assignment": "Levels of Organization Foldable",
     "category": "Classwork and Labs",
     "date_assigned": "10/1/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Life Science 7",
+    "date_due": "10/3/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Microscpe Letter e Lab",
+    "category": "Classwork and Labs",
+    "date_assigned": "10/3/2018",
     "quarter": "Q1"
   },
   {
@@ -1517,6 +1527,46 @@
     "assignment": "World in 1500 Map",
     "category": "Homework and Classwork",
     "date_assigned": "9/4/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "AtmoSci/Climat",
+    "date_due": "10/2/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "carbon lab",
+    "category": "Classwork",
+    "date_assigned": "10/2/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "AtmoSci/Climat",
+    "date_due": "9/27/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "define all vocab for ch 1",
+    "category": "Classwork",
+    "date_assigned": "9/25/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "AtmoSci/Climat",
+    "date_due": "9/27/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "rq14-16",
+    "category": "Classwork",
+    "date_assigned": "9/25/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "AtmoSci/Climat",
+    "date_due": "9/26/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "how earth was made",
+    "category": "Classwork",
+    "date_assigned": "9/26/2018",
     "quarter": "Q1"
   },
   {
