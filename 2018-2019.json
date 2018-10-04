@@ -900,6 +900,16 @@
     "quarter": "Q1"
   },
   {
+    "score": "80%",
+    "student_class": "Adv. English 7",
+    "date_due": "10/2/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Power School Q1 Fiction Quiz",
+    "category": "Quizzes",
+    "date_assigned": "10/2/2018",
+    "quarter": "Q1"
+  },
+  {
     "score": "90%",
     "student_class": "Adv. English 7",
     "date_due": "9/26/2018",
@@ -950,6 +960,16 @@
     "quarter": "Q1"
   },
   {
+    "score": "Ungraded",
+    "student_class": "Spanish I",
+    "date_due": "10/8/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Study for test Go to supersite",
+    "category": "Classwork-Homework",
+    "date_assigned": "10/4/2018",
+    "quarter": "Q1"
+  },
+  {
     "score": "100%",
     "student_class": "Spanish I",
     "date_due": "10/1/2018",
@@ -960,7 +980,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "60%",
     "student_class": "Spanish I",
     "date_due": "9/28/2018",
     "student": "Atkins, Heath D",
