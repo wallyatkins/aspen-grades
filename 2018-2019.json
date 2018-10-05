@@ -1,5 +1,15 @@
 [
   {
+    "score": "100%",
+    "student_class": "Chemistry I",
+    "date_due": "10/5/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Unit sheet 1.2",
+    "category": "Homework",
+    "date_assigned": "10/3/2018",
+    "quarter": "Q1"
+  },
+  {
     "score": "0%",
     "student_class": "Chemistry I",
     "date_due": "10/2/2018",
@@ -130,7 +140,17 @@
     "quarter": "Q1"
   },
   {
-    "score": "90%",
+    "score": "Ungraded",
+    "student_class": "WorldHistory II",
+    "date_due": "10/5/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Vocab Renaissance",
+    "category": "Classwork and Homework",
+    "date_assigned": "10/5/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "93%",
     "student_class": "WorldHistory II",
     "date_due": "10/2/2018",
     "student": "Atkins, Derek W",
@@ -140,7 +160,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "WorldHistory II",
     "date_due": "9/27/2018",
     "student": "Atkins, Derek W",
@@ -230,7 +250,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "*Math Analysis",
     "date_due": "10/4/2018",
     "student": "Atkins, Derek W",
@@ -670,6 +690,56 @@
     "quarter": "Q1"
   },
   {
+    "score": "Ungraded",
+    "student_class": "English Reading 5",
+    "date_due": "10/17/2018",
+    "student": "Atkins, Haley J",
+    "assignment": "Reading Test 1",
+    "category": "Unit Tests",
+    "date_assigned": "10/17/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "English Reading 5",
+    "date_due": "10/4/2018",
+    "student": "Atkins, Haley J",
+    "assignment": "Scholastic News Weekly 1",
+    "category": "Classwork/Homework",
+    "date_assigned": "10/4/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "English Reading 5",
+    "date_due": "10/2/2018",
+    "student": "Atkins, Haley J",
+    "assignment": "Plot Quiz",
+    "category": "Quizzes and Projects",
+    "date_assigned": "10/2/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "English Reading 5",
+    "date_due": "9/27/2018",
+    "student": "Atkins, Haley J",
+    "assignment": "Plot Mapping Sort",
+    "category": "Classwork/Homework",
+    "date_assigned": "9/27/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "95%",
+    "student_class": "English Written/Oral Communication 5",
+    "date_due": "9/21/2018",
+    "student": "Atkins, Haley J",
+    "assignment": "Apple Writing",
+    "category": "Classwork/Homework",
+    "date_assigned": "9/7/2018",
+    "quarter": "Q1"
+  },
+  {
     "score": "96%",
     "student_class": "Mathematics 5",
     "date_due": "10/2/2018",
@@ -800,7 +870,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "90%",
     "student_class": "US History II",
     "date_due": "10/2/2018",
     "student": "Atkins, Heath D",
@@ -900,6 +970,66 @@
     "quarter": "Q1"
   },
   {
+    "score": "100%",
+    "student_class": "PE/LT Fitness 7",
+    "date_due": "10/3/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Fitness Games/Pickleball",
+    "category": "Daily Class Participation",
+    "date_assigned": "10/3/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "PE/LT Fitness 7",
+    "date_due": "9/25/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Fitness/Pickleball",
+    "category": "Daily Class Participation",
+    "date_assigned": "9/25/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "PE/LT Fitness 7",
+    "date_due": "9/18/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Fitness Games/Pickleball",
+    "category": "Daily Class Participation",
+    "date_assigned": "9/18/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "90%",
+    "student_class": "Adv. English 7",
+    "date_due": "10/4/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Affixes Quiz",
+    "category": "Quizzes",
+    "date_assigned": "10/4/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Adv. English 7",
+    "date_due": "10/4/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Thank You Mam Exit Ticket",
+    "category": "Classwork",
+    "date_assigned": "10/4/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Adv. English 7",
+    "date_due": "10/2/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "2 more root words, cycle 1",
+    "category": "Homework",
+    "date_assigned": "10/2/2018",
+    "quarter": "Q1"
+  },
+  {
     "score": "80%",
     "student_class": "Adv. English 7",
     "date_due": "10/2/2018",
@@ -907,6 +1037,26 @@
     "assignment": "Power School Q1 Fiction Quiz",
     "category": "Quizzes",
     "date_assigned": "10/2/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Adv. English 7",
+    "date_due": "9/28/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Missing Prefixes",
+    "category": "Homework",
+    "date_assigned": "9/28/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Adv. English 7",
+    "date_due": "9/26/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Word Wise #1 Flash Cards",
+    "category": "Homework",
+    "date_assigned": "9/26/2018",
     "quarter": "Q1"
   },
   {
@@ -957,6 +1107,16 @@
     "assignment": "Summer Reading Graphic Org Chart",
     "category": "Classwork",
     "date_assigned": "9/4/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Spanish I",
+    "date_due": "10/8/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Quiz on numbers and time",
+    "category": "Quizzes",
+    "date_assigned": "10/2/2018",
     "quarter": "Q1"
   },
   {
@@ -1120,7 +1280,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "92%",
     "student_class": "Life Science 7",
     "date_due": "10/3/2018",
     "student": "Atkins, Heath D",
@@ -1160,7 +1320,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Life Science 7",
     "date_due": "9/27/2018",
     "student": "Atkins, Heath D",
@@ -1210,7 +1370,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "93%",
     "student_class": "Intro Prog/Game Design",
     "date_due": "10/4/2018",
     "student": "Atkins, Heath D",
@@ -1257,6 +1417,16 @@
     "assignment": "Research: Computer History",
     "category": "Habits and Journal",
     "date_assigned": "9/11/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Algebra I A",
+    "date_due": "10/5/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Unit 1 Test Review WS",
+    "category": "Classwork and Homework",
+    "date_assigned": "10/3/2018",
     "quarter": "Q1"
   },
   {
@@ -1367,6 +1537,16 @@
     "assignment": "Rational Number WS & p.67 (1-4 all, 15-21 odd)",
     "category": "Classwork and Homework",
     "date_assigned": "9/5/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Intro. Forensic Science",
+    "date_due": "10/5/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Forensic Entomology Test",
+    "category": "Test",
+    "date_assigned": "10/5/2018",
     "quarter": "Q1"
   },
   {
@@ -1632,6 +1812,26 @@
   {
     "score": "Ungraded",
     "student_class": "AtmoSci/Climat",
+    "date_due": "10/10/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "ch1test",
+    "category": "Test",
+    "date_assigned": "10/2/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "AtmoSci/Climat",
+    "date_due": "10/4/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "ch1 rev two sheets",
+    "category": "Classwork",
+    "date_assigned": "10/4/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "AtmoSci/Climat",
     "date_due": "10/2/2018",
     "student": "Atkins, Matthew L",
     "assignment": "carbon lab",
@@ -1640,7 +1840,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "AtmoSci/Climat",
     "date_due": "9/27/2018",
     "student": "Atkins, Matthew L",
@@ -1660,7 +1860,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "AtmoSci/Climat",
     "date_due": "9/26/2018",
     "student": "Atkins, Matthew L",
@@ -1864,13 +2064,23 @@
     "student_class": "Algebra II A",
     "date_due": "10/9/2018",
     "student": "Atkins, Matthew L",
+    "assignment": "Practice 6.1(1-30)",
+    "category": "Daily",
+    "date_assigned": "10/5/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Algebra II A",
+    "date_due": "10/9/2018",
+    "student": "Atkins, Matthew L",
     "assignment": "Unit 1 Test",
     "category": "Test",
     "date_assigned": "10/9/2018",
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Algebra II A",
     "date_due": "10/5/2018",
     "student": "Atkins, Matthew L",
@@ -1880,7 +2090,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Algebra II A",
     "date_due": "10/5/2018",
     "student": "Atkins, Matthew L",
@@ -1890,7 +2100,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Algebra II A",
     "date_due": "10/1/2018",
     "student": "Atkins, Matthew L",
@@ -1900,7 +2110,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "86%",
     "student_class": "Algebra II A",
     "date_due": "10/1/2018",
     "student": "Atkins, Matthew L",
