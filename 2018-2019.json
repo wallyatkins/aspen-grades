@@ -1,5 +1,25 @@
 [
   {
+    "score": "Ungraded",
+    "student_class": "Chemistry I",
+    "date_due": "10/12/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Mixture Lab Conclusion",
+    "category": "Lab",
+    "date_assigned": "10/8/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "80%",
+    "student_class": "Chemistry I",
+    "date_due": "10/8/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Chem unit sheet 6.2",
+    "category": "Homework",
+    "date_assigned": "10/4/2018",
+    "quarter": "Q1"
+  },
+  {
     "score": "100%",
     "student_class": "Chemistry I",
     "date_due": "10/5/2018",
@@ -141,6 +161,36 @@
   },
   {
     "score": "Ungraded",
+    "student_class": "Health/PE10/DrivEd",
+    "date_due": "10/4/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Weight Room Quiz",
+    "category": "Written",
+    "date_assigned": "10/4/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Health/PE10/DrivEd",
+    "date_due": "9/28/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Dress/Participation 9/10-9/28",
+    "category": "DressParticipation",
+    "date_assigned": "9/10/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Health/PE10/DrivEd",
+    "date_due": "9/7/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Rules and Regulations",
+    "category": "Written",
+    "date_assigned": "9/4/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
     "student_class": "WorldHistory II",
     "date_due": "10/5/2018",
     "student": "Atkins, Derek W",
@@ -150,7 +200,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "93%",
+    "score": "97%",
     "student_class": "WorldHistory II",
     "date_due": "10/2/2018",
     "student": "Atkins, Derek W",
@@ -260,7 +310,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "60%",
     "student_class": "*Math Analysis",
     "date_due": "10/4/2018",
     "student": "Atkins, Derek W",
@@ -400,6 +450,16 @@
     "quarter": "Q1"
   },
   {
+    "score": "100%",
+    "student_class": "Chorus II",
+    "date_due": "10/9/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "DP9",
+    "category": "Daily Participation",
+    "date_assigned": "10/9/2018",
+    "quarter": "Q1"
+  },
+  {
     "score": "Ungraded",
     "student_class": "Chorus II",
     "date_due": "10/4/2018",
@@ -512,6 +572,56 @@
   {
     "score": "Ungraded",
     "student_class": "*Spanish IV",
+    "date_due": "10/11/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Unit 1 test",
+    "category": "Final assessment",
+    "date_assigned": "10/2/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*Spanish IV",
+    "date_due": "10/10/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Homework Cultural Reading",
+    "category": "Comunicative Activities",
+    "date_assigned": "10/8/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "*Spanish IV",
+    "date_due": "10/8/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Pre test for Unit 1",
+    "category": "CLSSWK/HW",
+    "date_assigned": "10/8/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "*Spanish IV",
+    "date_due": "10/4/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Poema 20 Reading Comprehension",
+    "category": "Comunicative Activities",
+    "date_assigned": "10/2/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "*Spanish IV",
+    "date_due": "10/2/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Listening VHL Video \"Di Algo\"",
+    "category": "Comunicative Activities",
+    "date_assigned": "10/2/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*Spanish IV",
     "date_due": "9/27/2018",
     "student": "Atkins, Derek W",
     "assignment": "Busquemos un amigo/a writing",
@@ -560,7 +670,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "80%",
     "student_class": "*Spanish IV",
     "date_due": "9/20/2018",
     "student": "Atkins, Derek W",
@@ -640,7 +750,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "*AdvEnglish10",
     "date_due": "9/25/2018",
     "student": "Atkins, Derek W",
@@ -650,7 +760,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "83%",
     "student_class": "*AdvEnglish10",
     "date_due": "9/21/2018",
     "student": "Atkins, Derek W",
@@ -750,7 +860,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "80%",
     "student_class": "Mathematics 5",
     "date_due": "10/1/2018",
     "student": "Atkins, Haley J",
@@ -810,7 +920,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Science 5",
     "date_due": "10/1/2018",
     "student": "Atkins, Haley J",
@@ -870,6 +980,36 @@
     "quarter": "Q1"
   },
   {
+    "score": "Ungraded",
+    "student_class": "US History II",
+    "date_due": "10/18/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Westward Expansion TEST",
+    "category": "TestProj",
+    "date_assigned": "10/8/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "US History II",
+    "date_due": "10/10/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Finish & summarize \"The Muscle That Built The Rail",
+    "category": "Homework",
+    "date_assigned": "10/8/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "US History II",
+    "date_due": "10/8/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Reasons for W'ward Exp",
+    "category": "Homework",
+    "date_assigned": "10/4/2018",
+    "quarter": "Q1"
+  },
+  {
     "score": "90%",
     "student_class": "US History II",
     "date_due": "10/2/2018",
@@ -910,7 +1050,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "75%",
     "student_class": "US History II",
     "date_due": "9/25/2018",
     "student": "Atkins, Heath D",
@@ -920,7 +1060,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "17%",
     "student_class": "US History II",
     "date_due": "9/25/2018",
     "student": "Atkins, Heath D",
@@ -930,7 +1070,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "US History II",
     "date_due": "9/20/2018",
     "student": "Atkins, Heath D",
@@ -1010,7 +1150,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "90%",
     "student_class": "Adv. English 7",
     "date_due": "10/4/2018",
     "student": "Atkins, Heath D",
@@ -1090,6 +1230,16 @@
     "quarter": "Q1"
   },
   {
+    "score": "80%",
+    "student_class": "Adv. English 7",
+    "date_due": "9/10/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Tangerine essay characterization & theme",
+    "category": "Classwork",
+    "date_assigned": "9/10/2018",
+    "quarter": "Q1"
+  },
+  {
     "score": "100%",
     "student_class": "Adv. English 7",
     "date_due": "9/4/2018",
@@ -1110,7 +1260,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "90%",
     "student_class": "Spanish I",
     "date_due": "10/8/2018",
     "student": "Atkins, Heath D",
@@ -1224,7 +1374,7 @@
     "student_class": "Life Science 7",
     "date_due": "10/19/2018",
     "student": "Atkins, Heath D",
-    "assignment": "Unit 1 Review Booklet",
+    "assignment": "Unit 1 Folder Review",
     "category": "Classwork and Labs",
     "date_assigned": "9/19/2018",
     "quarter": "Q1"
@@ -1370,6 +1520,76 @@
     "quarter": "Q1"
   },
   {
+    "score": "Ungraded",
+    "student_class": "Intro Prog/Game Design",
+    "date_due": "10/16/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Quiz Unit 2: Debug 1",
+    "category": "Quizzes",
+    "date_assigned": "10/8/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Intro Prog/Game Design",
+    "date_due": "10/16/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Unit 2 #3 \"About me\"- planning a project",
+    "category": "Projects",
+    "date_assigned": "10/8/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Intro Prog/Game Design",
+    "date_due": "10/16/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Unit 2 Journal Oct 4-15",
+    "category": "Habits and Journal",
+    "date_assigned": "10/8/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Intro Prog/Game Design",
+    "date_due": "10/12/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Unit 2 #2 Scratch Paint editor-journal entry",
+    "category": "Projects",
+    "date_assigned": "10/8/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Intro Prog/Game Design",
+    "date_due": "10/8/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Unit 1 Journal week 4",
+    "category": "Habits and Journal",
+    "date_assigned": "10/8/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Intro Prog/Game Design",
+    "date_due": "10/8/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Unit 2 Creative Comp Assignment #1",
+    "category": "Projects",
+    "date_assigned": "10/8/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "90%",
+    "student_class": "Intro Prog/Game Design",
+    "date_due": "10/5/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Unit 1: Journal 1st 4 entries",
+    "category": "Habits and Journal",
+    "date_assigned": "9/17/2018",
+    "quarter": "Q1"
+  },
+  {
     "score": "93%",
     "student_class": "Intro Prog/Game Design",
     "date_due": "10/4/2018",
@@ -1387,16 +1607,6 @@
     "assignment": "Code.org 11-20",
     "category": "Habits and Journal",
     "date_assigned": "9/24/2018",
-    "quarter": "Q1"
-  },
-  {
-    "score": "90%",
-    "student_class": "Intro Prog/Game Design",
-    "date_due": "9/28/2018",
-    "student": "Atkins, Heath D",
-    "assignment": "Unit 1: Journal Check",
-    "category": "Habits and Journal",
-    "date_assigned": "9/12/2018",
     "quarter": "Q1"
   },
   {
@@ -1427,6 +1637,16 @@
     "assignment": "Unit 1 Test Review WS",
     "category": "Classwork and Homework",
     "date_assigned": "10/3/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "84%",
+    "student_class": "Algebra I A",
+    "date_due": "10/5/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Unit 1 Test: Variables & Expressions",
+    "category": "Test",
+    "date_assigned": "10/5/2018",
     "quarter": "Q1"
   },
   {
@@ -1542,6 +1762,26 @@
   {
     "score": "Ungraded",
     "student_class": "Intro. Forensic Science",
+    "date_due": "10/9/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "A Bug for Research (Book Excert) & Questions",
+    "category": "Test",
+    "date_assigned": "10/9/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Intro. Forensic Science",
+    "date_due": "10/9/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Time Line of Forensic Science",
+    "category": "Classwork",
+    "date_assigned": "10/9/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "80%",
+    "student_class": "Intro. Forensic Science",
     "date_due": "10/5/2018",
     "student": "Atkins, Heath D",
     "assignment": "Forensic Entomology Test",
@@ -1550,7 +1790,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Intro. Forensic Science",
     "date_due": "10/3/2018",
     "student": "Atkins, Heath D",
@@ -1560,7 +1800,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Intro. Forensic Science",
     "date_due": "10/3/2018",
     "student": "Atkins, Heath D",
@@ -1570,7 +1810,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Intro. Forensic Science",
     "date_due": "9/28/2018",
     "student": "Atkins, Heath D",
@@ -1580,7 +1820,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Intro. Forensic Science",
     "date_due": "9/28/2018",
     "student": "Atkins, Heath D",
@@ -1590,7 +1830,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Intro. Forensic Science",
     "date_due": "9/27/2018",
     "student": "Atkins, Heath D",
@@ -1600,7 +1840,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Intro. Forensic Science",
     "date_due": "9/26/2018",
     "student": "Atkins, Heath D",
@@ -1610,7 +1850,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Intro. Forensic Science",
     "date_due": "9/25/2018",
     "student": "Atkins, Heath D",
@@ -1620,7 +1860,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Intro. Forensic Science",
     "date_due": "9/25/2018",
     "student": "Atkins, Heath D",
@@ -1630,7 +1870,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Intro. Forensic Science",
     "date_due": "9/25/2018",
     "student": "Atkins, Heath D",
@@ -1640,7 +1880,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Intro. Forensic Science",
     "date_due": "9/25/2018",
     "student": "Atkins, Heath D",
@@ -1650,7 +1890,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Intro. Forensic Science",
     "date_due": "9/25/2018",
     "student": "Atkins, Heath D",
@@ -1660,7 +1900,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Intro. Forensic Science",
     "date_due": "9/7/2018",
     "student": "Atkins, Heath D",
@@ -1670,7 +1910,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Intro. Forensic Science",
     "date_due": "9/6/2018",
     "student": "Atkins, Heath D",
@@ -1680,7 +1920,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Intro. Forensic Science",
     "date_due": "9/6/2018",
     "student": "Atkins, Heath D",
@@ -1690,13 +1930,43 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Intro. Forensic Science",
     "date_due": "9/6/2018",
     "student": "Atkins, Heath D",
     "assignment": "Who Ya Gonna Call (Matching areas of Forensic Sci)",
     "category": "Classwork",
     "date_assigned": "9/6/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Health/PE10/DrivEd",
+    "date_due": "10/4/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Weight Room Quiz",
+    "category": "Written",
+    "date_assigned": "10/4/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Health/PE10/DrivEd",
+    "date_due": "9/28/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Dress/Participation 9/10-9/28",
+    "category": "DressParticipation",
+    "date_assigned": "9/10/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Health/PE10/DrivEd",
+    "date_due": "9/7/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Rules and Regulations",
+    "category": "Written",
+    "date_assigned": "9/4/2018",
     "quarter": "Q1"
   },
   {
@@ -1712,6 +1982,36 @@
   {
     "score": "Ungraded",
     "student_class": "WorldHistory II",
+    "date_due": "10/16/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Unit 2 Test - The Reformation",
+    "category": "Tests and Projects",
+    "date_assigned": "10/9/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "WorldHistory II",
+    "date_due": "10/16/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Unit 2 Vocab Choice Board",
+    "category": "Homework and Classwork",
+    "date_assigned": "10/2/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "WorldHistory II",
+    "date_due": "10/16/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Unit 2 Vocab List",
+    "category": "Homework and Classwork",
+    "date_assigned": "10/2/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "WorldHistory II",
     "date_due": "10/2/2018",
     "student": "Atkins, Matthew L",
     "assignment": "Renaissanace Review Folder",
@@ -1720,7 +2020,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "95%",
     "student_class": "WorldHistory II",
     "date_due": "10/2/2018",
     "student": "Atkins, Matthew L",
@@ -1730,7 +2030,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "85%",
     "student_class": "WorldHistory II",
     "date_due": "9/28/2018",
     "student": "Atkins, Matthew L",
@@ -1750,7 +2050,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "106%",
     "student_class": "WorldHistory II",
     "date_due": "9/28/2018",
     "student": "Atkins, Matthew L",
@@ -1760,7 +2060,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "WorldHistory II",
     "date_due": "9/27/2018",
     "student": "Atkins, Matthew L",
@@ -1950,7 +2250,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "*AdvEnglish10",
     "date_due": "9/24/2018",
     "student": "Atkins, Matthew L",
@@ -1997,6 +2297,26 @@
     "assignment": "Summer Annotations",
     "category": "Quiz",
     "date_assigned": "9/4/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "French I",
+    "date_due": "10/17/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Chapitre 1- Test",
+    "category": "Tests and Projects",
+    "date_assigned": "10/17/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "90%",
+    "student_class": "French I",
+    "date_due": "9/25/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Participation 9/17-9/27",
+    "category": "In Class Participation",
+    "date_assigned": "9/17/2018",
     "quarter": "Q1"
   },
   {
@@ -2212,31 +2532,121 @@
   {
     "score": "Ungraded",
     "student_class": "Drama II A",
+    "date_due": "10/9/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "mono",
+    "category": "written tests, big projects, big performances",
+    "date_assigned": "10/9/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "99%",
+    "student_class": "Drama II A",
+    "date_due": "10/5/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "participation",
+    "category": "in class work, participation in groups, activities",
+    "date_assigned": "10/5/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Drama II A",
+    "date_due": "9/28/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "find one",
+    "category": "memorization, bringing materials needed, etc",
+    "date_assigned": "9/28/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "95%",
+    "student_class": "Drama II A",
+    "date_due": "9/26/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "participation",
+    "category": "in class work, participation in groups, activities",
+    "date_assigned": "9/26/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "99%",
+    "student_class": "Drama II A",
+    "date_due": "9/24/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "improv 1",
+    "category": "Written quizzes, small projects, small performance",
+    "date_assigned": "9/24/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "95%",
+    "student_class": "Drama II A",
+    "date_due": "9/21/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "wksht for movie",
+    "category": "in class work, participation in groups, activities",
+    "date_assigned": "9/21/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "92%",
+    "student_class": "Drama II A",
+    "date_due": "9/20/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "board",
+    "category": "written tests, big projects, big performances",
+    "date_assigned": "9/20/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "99%",
+    "student_class": "Drama II A",
+    "date_due": "9/19/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "week 2 hurricane",
+    "category": "in class work, participation in groups, activities",
+    "date_assigned": "9/19/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "95%",
+    "student_class": "Drama II A",
+    "date_due": "9/17/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "fairytale",
+    "category": "in class work, participation in groups, activities",
+    "date_assigned": "9/17/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "95%",
+    "student_class": "Drama II A",
+    "date_due": "9/10/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "class survey",
+    "category": "memorization, bringing materials needed, etc",
+    "date_assigned": "9/10/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "95%",
+    "student_class": "Drama II A",
     "date_due": "9/7/2018",
     "student": "Atkins, Matthew L",
-    "assignment": "working on scenes in a group",
+    "assignment": "participation",
     "category": "in class work, participation in groups, activities",
     "date_assigned": "9/7/2018",
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "95%",
     "student_class": "Drama II A",
-    "date_due": "9/6/2018",
+    "date_due": "9/7/2018",
     "student": "Atkins, Matthew L",
-    "assignment": "Seesaw interviews",
+    "assignment": "working on scenes in a group",
     "category": "in class work, participation in groups, activities",
-    "date_assigned": "9/6/2018",
-    "quarter": "Q1"
-  },
-  {
-    "score": "Ungraded",
-    "student_class": "Drama II A",
-    "date_due": "9/5/2018",
-    "student": "Atkins, Matthew L",
-    "assignment": "animal group participation day 1",
-    "category": "in class work, participation in groups, activities",
-    "date_assigned": "9/5/2018",
+    "date_assigned": "9/7/2018",
     "quarter": "Q1"
   }
 ]
