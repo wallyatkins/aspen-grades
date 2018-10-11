@@ -2,6 +2,26 @@
   {
     "score": "Ungraded",
     "student_class": "Chemistry I",
+    "date_due": "10/26/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Unit 2 Test",
+    "category": "Tests",
+    "date_assigned": "10/10/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Chemistry I",
+    "date_due": "10/16/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Unit 2 Quiz",
+    "category": "Quiz",
+    "date_assigned": "10/10/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Chemistry I",
     "date_due": "10/12/2018",
     "student": "Atkins, Derek W",
     "assignment": "Mixture Lab Conclusion",
@@ -712,6 +732,26 @@
   {
     "score": "Ungraded",
     "student_class": "*AdvEnglish10",
+    "date_due": "10/23/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Vocabulary Unit 2 Quiz",
+    "category": "Quiz",
+    "date_assigned": "10/11/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*AdvEnglish10",
+    "date_due": "10/19/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "SSR Active Reading and Participation",
+    "category": "Homework",
+    "date_assigned": "10/9/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*AdvEnglish10",
     "date_due": "10/11/2018",
     "student": "Atkins, Derek W",
     "assignment": "Vocabulary Unit 2 Homework",
@@ -992,11 +1032,31 @@
   {
     "score": "Ungraded",
     "student_class": "US History II",
+    "date_due": "10/12/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Westward Expansion quiz: Inventions and Adaptation",
+    "category": "Quizzes",
+    "date_assigned": "10/10/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "0%",
+    "student_class": "US History II",
     "date_due": "10/10/2018",
     "student": "Atkins, Heath D",
     "assignment": "Finish & summarize \"The Muscle That Built The Rail",
     "category": "Homework",
     "date_assigned": "10/8/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "US History II",
+    "date_due": "10/10/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "P 8 and 9Study for Inventions and Adaptations Quiz",
+    "category": "Homework",
+    "date_assigned": "10/10/2018",
     "quarter": "Q1"
   },
   {
@@ -1270,7 +1330,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Spanish I",
     "date_due": "10/8/2018",
     "student": "Atkins, Heath D",
@@ -1627,6 +1687,36 @@
     "assignment": "Research: Computer History",
     "category": "Habits and Journal",
     "date_assigned": "9/11/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Algebra I A",
+    "date_due": "10/11/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Solving Equations with one variable",
+    "category": "Classwork and Homework",
+    "date_assigned": "10/9/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Algebra I A",
+    "date_due": "10/9/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "PWS 3.1 and 3.2",
+    "category": "Classwork and Homework",
+    "date_assigned": "10/5/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Algebra I A",
+    "date_due": "10/9/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Video Notes",
+    "category": "Classwork and Homework",
+    "date_assigned": "10/5/2018",
     "quarter": "Q1"
   },
   {
@@ -2012,6 +2102,26 @@
   {
     "score": "Ungraded",
     "student_class": "WorldHistory II",
+    "date_due": "10/10/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "The Church in the Middle Ages Questions",
+    "category": "Homework and Classwork",
+    "date_assigned": "10/8/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "WorldHistory II",
+    "date_due": "10/8/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Reformation Geography Challenge",
+    "category": "Homework and Classwork",
+    "date_assigned": "10/4/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "WorldHistory II",
     "date_due": "10/2/2018",
     "student": "Atkins, Matthew L",
     "assignment": "Renaissanace Review Folder",
@@ -2212,6 +2322,26 @@
   {
     "score": "Ungraded",
     "student_class": "*AdvEnglish10",
+    "date_due": "10/22/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Vocabulary Unit 2 Quiz",
+    "category": "Quiz",
+    "date_assigned": "10/10/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*AdvEnglish10",
+    "date_due": "10/18/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "SSR Active Reading and Participation",
+    "category": "Homework",
+    "date_assigned": "10/8/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*AdvEnglish10",
     "date_due": "10/10/2018",
     "student": "Atkins, Matthew L",
     "assignment": "Vocabulary Unit 2 Homework",
@@ -2310,6 +2440,16 @@
     "quarter": "Q1"
   },
   {
+    "score": "60%",
+    "student_class": "French I",
+    "date_due": "10/9/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Quiz on adjective agreement",
+    "category": "Quizzes",
+    "date_assigned": "10/9/2018",
+    "quarter": "Q1"
+  },
+  {
     "score": "90%",
     "student_class": "French I",
     "date_due": "9/25/2018",
@@ -2377,6 +2517,16 @@
     "assignment": "Write down as many French words you know",
     "category": "Classwork/ Homework",
     "date_assigned": "9/5/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Algebra II A",
+    "date_due": "10/15/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Practice 6.2(1-28,31,32)",
+    "category": "Daily",
+    "date_assigned": "10/11/2018",
     "quarter": "Q1"
   },
   {
