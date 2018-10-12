@@ -732,21 +732,21 @@
   {
     "score": "Ungraded",
     "student_class": "*AdvEnglish10",
-    "date_due": "10/23/2018",
+    "date_due": "10/24/2018",
     "student": "Atkins, Derek W",
     "assignment": "Vocabulary Unit 2 Quiz",
     "category": "Quiz",
-    "date_assigned": "10/11/2018",
+    "date_assigned": "10/12/2018",
     "quarter": "Q1"
   },
   {
     "score": "Ungraded",
     "student_class": "*AdvEnglish10",
-    "date_due": "10/19/2018",
+    "date_due": "10/18/2018",
     "student": "Atkins, Derek W",
     "assignment": "SSR Active Reading and Participation",
     "category": "Homework",
-    "date_assigned": "10/9/2018",
+    "date_assigned": "10/8/2018",
     "quarter": "Q1"
   },
   {
@@ -1034,13 +1034,23 @@
     "student_class": "US History II",
     "date_due": "10/12/2018",
     "student": "Atkins, Heath D",
+    "assignment": "p. 8-9 Inventions",
+    "category": "Homework",
+    "date_assigned": "10/10/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "US History II",
+    "date_due": "10/12/2018",
+    "student": "Atkins, Heath D",
     "assignment": "Westward Expansion quiz: Inventions and Adaptation",
     "category": "Quizzes",
     "date_assigned": "10/10/2018",
     "quarter": "Q1"
   },
   {
-    "score": "0%",
+    "score": "100%",
     "student_class": "US History II",
     "date_due": "10/10/2018",
     "student": "Atkins, Heath D",
@@ -1480,7 +1490,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Life Science 7",
     "date_due": "10/11/2018",
     "student": "Atkins, Heath D",
@@ -1702,6 +1712,16 @@
   {
     "score": "100%",
     "student_class": "Algebra I A",
+    "date_due": "10/11/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Solving Equations with one variable",
+    "category": "Quiz",
+    "date_assigned": "10/11/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Algebra I A",
     "date_due": "10/9/2018",
     "student": "Atkins, Heath D",
     "assignment": "PWS 3.1 and 3.2",
@@ -1730,7 +1750,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "84%",
+    "score": "Ungraded",
     "student_class": "Algebra I A",
     "date_due": "10/5/2018",
     "student": "Atkins, Heath D",
@@ -2322,21 +2342,21 @@
   {
     "score": "Ungraded",
     "student_class": "*AdvEnglish10",
-    "date_due": "10/22/2018",
+    "date_due": "10/23/2018",
     "student": "Atkins, Matthew L",
     "assignment": "Vocabulary Unit 2 Quiz",
     "category": "Quiz",
-    "date_assigned": "10/10/2018",
+    "date_assigned": "10/11/2018",
     "quarter": "Q1"
   },
   {
     "score": "Ungraded",
     "student_class": "*AdvEnglish10",
-    "date_due": "10/18/2018",
+    "date_due": "10/19/2018",
     "student": "Atkins, Matthew L",
     "assignment": "SSR Active Reading and Participation",
     "category": "Homework",
-    "date_assigned": "10/8/2018",
+    "date_assigned": "10/9/2018",
     "quarter": "Q1"
   },
   {
