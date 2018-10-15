@@ -732,6 +732,16 @@
   {
     "score": "Ungraded",
     "student_class": "*AdvEnglish10",
+    "date_due": "10/26/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Vocabulary Unit 3 Homework",
+    "category": "Homework",
+    "date_assigned": "10/24/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*AdvEnglish10",
     "date_due": "10/24/2018",
     "student": "Atkins, Derek W",
     "assignment": "Vocabulary Unit 2 Quiz",
@@ -750,7 +760,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "*AdvEnglish10",
     "date_due": "10/11/2018",
     "student": "Atkins, Derek W",
@@ -760,7 +770,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "*AdvEnglish10",
     "date_due": "10/9/2018",
     "student": "Atkins, Derek W",
@@ -770,7 +780,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "83%",
     "student_class": "*AdvEnglish10",
     "date_due": "10/9/2018",
     "student": "Atkins, Derek W",
@@ -1022,31 +1032,41 @@
   {
     "score": "Ungraded",
     "student_class": "US History II",
-    "date_due": "10/18/2018",
+    "date_due": "10/19/2018",
     "student": "Atkins, Heath D",
     "assignment": "Westward Expansion TEST",
     "category": "TestProj",
-    "date_assigned": "10/8/2018",
+    "date_assigned": "10/9/2018",
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "US History II",
-    "date_due": "10/12/2018",
+    "date_due": "10/15/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Cultural Conflict Classwork",
+    "category": "Classwork",
+    "date_assigned": "10/15/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "US History II",
+    "date_due": "10/15/2018",
     "student": "Atkins, Heath D",
     "assignment": "p. 8-9 Inventions",
     "category": "Homework",
-    "date_assigned": "10/10/2018",
+    "date_assigned": "10/13/2018",
     "quarter": "Q1"
   },
   {
     "score": "Ungraded",
     "student_class": "US History II",
-    "date_due": "10/12/2018",
+    "date_due": "10/15/2018",
     "student": "Atkins, Heath D",
     "assignment": "Westward Expansion quiz: Inventions and Adaptation",
     "category": "Quizzes",
-    "date_assigned": "10/10/2018",
+    "date_assigned": "10/13/2018",
     "quarter": "Q1"
   },
   {
@@ -1422,7 +1442,7 @@
   {
     "score": "Ungraded",
     "student_class": "Life Science 7",
-    "date_due": "10/23/2018",
+    "date_due": "10/24/2018",
     "student": "Atkins, Heath D",
     "assignment": "Unit 1 Quizalize (zzi.sh)",
     "category": "Classwork and Labs",
@@ -1432,17 +1452,17 @@
   {
     "score": "Ungraded",
     "student_class": "Life Science 7",
-    "date_due": "10/23/2018",
+    "date_due": "10/24/2018",
     "student": "Atkins, Heath D",
     "assignment": "Unit 1: Characteristics and Cells Test",
     "category": "Tests",
-    "date_assigned": "10/23/2018",
+    "date_assigned": "10/24/2018",
     "quarter": "Q1"
   },
   {
     "score": "Ungraded",
     "student_class": "Life Science 7",
-    "date_due": "10/19/2018",
+    "date_due": "10/22/2018",
     "student": "Atkins, Heath D",
     "assignment": "Unit 1 Folder Review",
     "category": "Classwork and Labs",
@@ -1452,7 +1472,7 @@
   {
     "score": "Ungraded",
     "student_class": "Life Science 7",
-    "date_due": "10/17/2018",
+    "date_due": "10/18/2018",
     "student": "Atkins, Heath D",
     "assignment": "Cell Model Project",
     "category": "Tests",
@@ -1462,31 +1482,21 @@
   {
     "score": "Ungraded",
     "student_class": "Life Science 7",
-    "date_due": "10/17/2018",
+    "date_due": "10/18/2018",
     "student": "Atkins, Heath D",
     "assignment": "Cells Quiz",
     "category": "Quizzes",
-    "date_assigned": "10/17/2018",
+    "date_assigned": "10/18/2018",
     "quarter": "Q1"
   },
   {
     "score": "Ungraded",
     "student_class": "Life Science 7",
-    "date_due": "10/15/2018",
-    "student": "Atkins, Heath D",
-    "assignment": "Cell Practice",
-    "category": "Homework",
-    "date_assigned": "10/11/2018",
-    "quarter": "Q1"
-  },
-  {
-    "score": "Ungraded",
-    "student_class": "Life Science 7",
-    "date_due": "10/15/2018",
+    "date_due": "10/16/2018",
     "student": "Atkins, Heath D",
     "assignment": "Plant and Animal Cells Lab",
     "category": "Classwork and Labs",
-    "date_assigned": "10/15/2018",
+    "date_assigned": "10/16/2018",
     "quarter": "Q1"
   },
   {
@@ -2342,6 +2352,16 @@
   {
     "score": "Ungraded",
     "student_class": "*AdvEnglish10",
+    "date_due": "10/25/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Vocabulary Unit 3 Homework",
+    "category": "Homework",
+    "date_assigned": "10/23/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*AdvEnglish10",
     "date_due": "10/23/2018",
     "student": "Atkins, Matthew L",
     "assignment": "Vocabulary Unit 2 Quiz",
@@ -2360,7 +2380,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "75%",
     "student_class": "*AdvEnglish10",
     "date_due": "10/10/2018",
     "student": "Atkins, Matthew L",
@@ -2370,7 +2390,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "*AdvEnglish10",
     "date_due": "10/8/2018",
     "student": "Atkins, Matthew L",
@@ -2380,7 +2400,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "57%",
     "student_class": "*AdvEnglish10",
     "date_due": "10/8/2018",
     "student": "Atkins, Matthew L",
