@@ -15,6 +15,19 @@
   {
     "score": "Ungraded",
     "student_class": "Chemistry I",
+    "date_due": "10/19/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Unit sheet 4.2 (moles)",
+    "graded": "N",
+    "id": "GCD000000XcOA7",
+    "student_course": "4410-001",
+    "category": "Homework",
+    "date_assigned": "10/17/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Chemistry I",
     "date_due": "10/16/2018",
     "student": "Atkins, Derek W",
     "assignment": "Unit 2 Quiz",
@@ -234,7 +247,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Health/PE10/DrivEd",
     "date_due": "10/4/2018",
     "student": "Atkins, Derek W",
@@ -270,6 +283,58 @@
     "student_course": "7405-002",
     "category": "Written",
     "date_assigned": "9/4/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "WorldHistory II",
+    "date_due": "10/17/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Class participation",
+    "graded": "N",
+    "id": "GCD000000Xarq7",
+    "student_course": "2216-004",
+    "category": "Classwork and Homework",
+    "date_assigned": "10/17/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "WorldHistory II",
+    "date_due": "10/17/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Protestant Reformation and Scientific Rev Folder",
+    "graded": "N",
+    "id": "GCD000000XaryF",
+    "student_course": "2216-004",
+    "category": "Quiz grades",
+    "date_assigned": "10/17/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "WorldHistory II",
+    "date_due": "10/17/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Protestant Reformation and Scientific Rev Test",
+    "graded": "N",
+    "id": "GCD000000Xaryg",
+    "student_course": "2216-004",
+    "category": "test",
+    "date_assigned": "10/17/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "WorldHistory II",
+    "date_due": "10/17/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Protestant Reformation and Scientific Rev Vocab",
+    "graded": "N",
+    "id": "GCD000000Xarxf",
+    "student_course": "2216-004",
+    "category": "Classwork and Homework",
+    "date_assigned": "10/17/2018",
     "quarter": "Q1"
   },
   {
@@ -404,6 +469,32 @@
   },
   {
     "score": "Ungraded",
+    "student_class": "*Math Analysis",
+    "date_due": "10/19/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "P313;1-9o,13,17,21,25,27,33,35,39,41,45,57,59",
+    "graded": "N",
+    "id": "GCD000000XcGHR",
+    "student_course": "3162-004",
+    "category": "Homework/Classwork",
+    "date_assigned": "10/17/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "*Math Analysis",
+    "date_due": "10/17/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "P298;1,3,9,11,13,25,27,29,33,37,49,51",
+    "graded": "N",
+    "id": "GCD000000XaWrJ",
+    "student_course": "3162-004",
+    "category": "Homework/Classwork",
+    "date_assigned": "10/15/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "65%",
     "student_class": "*Math Analysis",
     "date_due": "10/8/2018",
     "student": "Atkins, Derek W",
@@ -613,6 +704,19 @@
   {
     "score": "100%",
     "student_class": "Chorus II",
+    "date_due": "10/16/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "DP10",
+    "graded": "N",
+    "id": "GCD000000Xab2M",
+    "student_course": "9289-003",
+    "category": "Daily Participation",
+    "date_assigned": "10/16/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Chorus II",
     "date_due": "10/9/2018",
     "student": "Atkins, Derek W",
     "assignment": "DP9",
@@ -769,7 +873,33 @@
   {
     "score": "Ungraded",
     "student_class": "*Spanish IV",
-    "date_due": "10/11/2018",
+    "date_due": "10/19/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Vocabulary in Action/IMovie",
+    "graded": "N",
+    "id": "GCD000000Xd8a4",
+    "student_course": "5540-003",
+    "category": "CLSSWK/HW",
+    "date_assigned": "10/17/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*Spanish IV",
+    "date_due": "10/18/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Unit 1 speaking using different scenarios",
+    "graded": "N",
+    "id": "GCD000000XadhE",
+    "student_course": "5540-003",
+    "category": "Comunicative Activities",
+    "date_assigned": "10/16/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*Spanish IV",
+    "date_due": "10/15/2018",
     "student": "Atkins, Derek W",
     "assignment": "Unit 1 test",
     "graded": "N",
@@ -1107,6 +1237,19 @@
   {
     "score": "Ungraded",
     "student_class": "English Reading 5",
+    "date_due": "10/18/2018",
+    "student": "Atkins, Haley J",
+    "assignment": "Who Am I? Where Am I? Making an Inference",
+    "graded": "N",
+    "id": "GCD000000XaMgT",
+    "student_course": "000510-001",
+    "category": "Classwork/Homework",
+    "date_assigned": "10/18/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "English Reading 5",
     "date_due": "10/17/2018",
     "student": "Atkins, Haley J",
     "assignment": "Reading Test 1",
@@ -1378,7 +1521,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "80%",
     "student_class": "US History II",
     "date_due": "10/15/2018",
     "student": "Atkins, Heath D",
@@ -1768,6 +1911,32 @@
     "quarter": "Q1"
   },
   {
+    "score": "Ungraded",
+    "student_class": "Spanish I",
+    "date_due": "10/23/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Lección 1 Chapter test",
+    "graded": "N",
+    "id": "GCD000000Xbbp3",
+    "student_course": "5510-03",
+    "category": "Tests",
+    "date_assigned": "10/16/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Spanish I",
+    "date_due": "10/17/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Quiz on Subject Pronouns & conjugation of verb SER",
+    "graded": "N",
+    "id": "GCD000000Xa4Et",
+    "student_course": "5510-03",
+    "category": "Quizzes",
+    "date_assigned": "10/10/2018",
+    "quarter": "Q1"
+  },
+  {
     "score": "90%",
     "student_class": "Spanish I",
     "date_due": "10/8/2018",
@@ -1915,25 +2084,25 @@
     "student_class": "Life Science 7",
     "date_due": "10/22/2018",
     "student": "Atkins, Heath D",
-    "assignment": "Unit 1 Folder Review",
-    "graded": "N",
-    "id": "GCD000000WnPVe",
-    "student_course": "4115-12",
-    "category": "Classwork and Labs",
-    "date_assigned": "9/19/2018",
-    "quarter": "Q1"
-  },
-  {
-    "score": "Ungraded",
-    "student_class": "Life Science 7",
-    "date_due": "10/18/2018",
-    "student": "Atkins, Heath D",
     "assignment": "Cell Model Project",
     "graded": "N",
     "id": "GCD000000WnQJz",
     "student_course": "4115-12",
     "category": "Tests",
     "date_assigned": "10/5/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Life Science 7",
+    "date_due": "10/22/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Unit 1 Folder Review",
+    "graded": "N",
+    "id": "GCD000000WnPVe",
+    "student_course": "4115-12",
+    "category": "Classwork and Labs",
+    "date_assigned": "9/19/2018",
     "quarter": "Q1"
   },
   {
@@ -2236,6 +2405,45 @@
     "quarter": "Q1"
   },
   {
+    "score": "95%",
+    "student_class": "Algebra I A",
+    "date_due": "10/16/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Daily Math: Days 5-8",
+    "graded": "N",
+    "id": "GCD000000Xax9u",
+    "student_course": "31301-07",
+    "category": "Classwork and Homework",
+    "date_assigned": "10/9/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Algebra I A",
+    "date_due": "10/16/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Practice Worksheet 3.4",
+    "graded": "N",
+    "id": "GCD000000Xawic",
+    "student_course": "31301-07",
+    "category": "Classwork and Homework",
+    "date_assigned": "10/12/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "50%",
+    "student_class": "Algebra I A",
+    "date_due": "10/15/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "PowerSchool Quiz Unit 1",
+    "graded": "N",
+    "id": "GCD000000Xawf1",
+    "student_course": "31301-07",
+    "category": "Quiz",
+    "date_assigned": "10/5/2018",
+    "quarter": "Q1"
+  },
+  {
     "score": "100%",
     "student_class": "Algebra I A",
     "date_due": "10/11/2018",
@@ -2301,7 +2509,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "84%",
     "student_class": "Algebra I A",
     "date_due": "10/5/2018",
     "student": "Atkins, Heath D",
@@ -2454,6 +2662,45 @@
     "student_course": "31301-07",
     "category": "Classwork and Homework",
     "date_assigned": "9/5/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Intro. Forensic Science",
+    "date_due": "10/17/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "1st Layer of Balloon Heads",
+    "graded": "N",
+    "id": "GCD000000Xd0vB",
+    "student_course": "98269-03",
+    "category": "Quizzes-Lab",
+    "date_assigned": "10/17/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Intro. Forensic Science",
+    "date_due": "10/17/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "lood Matching Vocab/Is your Blood eveer Blue?",
+    "graded": "N",
+    "id": "GCD000000Xd0tW",
+    "student_course": "98269-03",
+    "category": "Classwork",
+    "date_assigned": "10/17/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Intro. Forensic Science",
+    "date_due": "10/15/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Dr. Charles Richard Drew & Dr. Karl Landsteiner",
+    "graded": "N",
+    "id": "GCD000000Xd0yX",
+    "student_course": "98269-03",
+    "category": "Classwork",
+    "date_assigned": "10/15/2018",
     "quarter": "Q1"
   },
   {
@@ -2745,7 +2992,7 @@
   {
     "score": "Ungraded",
     "student_class": "WorldHistory II",
-    "date_due": "10/16/2018",
+    "date_due": "10/17/2018",
     "student": "Atkins, Matthew L",
     "assignment": "Unit 2 Test - The Reformation",
     "graded": "N",
@@ -2758,7 +3005,7 @@
   {
     "score": "Ungraded",
     "student_class": "WorldHistory II",
-    "date_due": "10/16/2018",
+    "date_due": "10/17/2018",
     "student": "Atkins, Matthew L",
     "assignment": "Unit 2 Vocab Choice Board",
     "graded": "N",
@@ -2771,7 +3018,7 @@
   {
     "score": "Ungraded",
     "student_class": "WorldHistory II",
-    "date_due": "10/16/2018",
+    "date_due": "10/17/2018",
     "student": "Atkins, Matthew L",
     "assignment": "Unit 2 Vocab List",
     "graded": "N",
@@ -2940,6 +3187,32 @@
   {
     "score": "Ungraded",
     "student_class": "AtmoSci/Climat",
+    "date_due": "10/31/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "ch2test",
+    "graded": "N",
+    "id": "GCD000000XcTrN",
+    "student_course": "4220-002",
+    "category": "Test",
+    "date_assigned": "10/19/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "AtmoSci/Climat",
+    "date_due": "10/25/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "q ch2B energy transfer",
+    "graded": "N",
+    "id": "GCD000000XcTly",
+    "student_course": "4220-002",
+    "category": "Quiz and Labs",
+    "date_assigned": "10/25/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "AtmoSci/Climat",
     "date_due": "10/19/2018",
     "student": "Atkins, Matthew L",
     "assignment": "Insolation quiz ch2A",
@@ -2953,9 +3226,22 @@
   {
     "score": "Ungraded",
     "student_class": "AtmoSci/Climat",
+    "date_due": "10/17/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Vocab 41-45, rq 1-7",
+    "graded": "N",
+    "id": "GCD000000XbKXR",
+    "student_course": "4220-002",
+    "category": "Classwork",
+    "date_assigned": "10/17/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "AtmoSci/Climat",
     "date_due": "10/15/2018",
     "student": "Atkins, Matthew L",
-    "assignment": "p34-39voc, diagrams",
+    "assignment": "p34-39voc, diagrams 2.5 and 2.7",
     "graded": "N",
     "id": "GCD000000XaFln",
     "student_course": "4220-002",
@@ -2964,7 +3250,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "87%",
     "student_class": "AtmoSci/Climat",
     "date_due": "10/10/2018",
     "student": "Atkins, Matthew L",
@@ -3369,18 +3655,31 @@
   {
     "score": "Ungraded",
     "student_class": "Algebra II A",
-    "date_due": "10/22/2018",
+    "date_due": "10/18/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Practice 4.5(1-27)",
+    "graded": "N",
+    "id": "GCD000000XaXTN",
+    "student_course": "31351-002",
+    "category": "Daily",
+    "date_assigned": "10/16/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Algebra II A",
+    "date_due": "10/18/2018",
     "student": "Atkins, Matthew L",
     "assignment": "Quiz 6.1,6.2",
     "graded": "N",
     "id": "GCD000000XaLwn",
     "student_course": "31351-002",
     "category": "Quiz",
-    "date_assigned": "10/22/2018",
+    "date_assigned": "10/18/2018",
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "Algebra II A",
     "date_due": "10/15/2018",
     "student": "Atkins, Matthew L",
