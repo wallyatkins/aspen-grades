@@ -2,7 +2,7 @@
   {
     "score": "Ungraded",
     "student_class": "Chemistry I",
-    "date_due": "10/26/2018",
+    "date_due": "10/29/2018",
     "student": "Atkins, Derek W",
     "assignment": "Unit 2 Test",
     "graded": "N",
@@ -39,7 +39,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "83%",
     "student_class": "Chemistry I",
     "date_due": "10/12/2018",
     "student": "Atkins, Derek W",
@@ -312,7 +312,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "92%",
     "student_class": "WorldHistory II",
     "date_due": "10/17/2018",
     "student": "Atkins, Derek W",
@@ -1081,6 +1081,58 @@
   {
     "score": "Ungraded",
     "student_class": "*AdvEnglish10",
+    "date_due": "11/14/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Dante Essay",
+    "graded": "N",
+    "id": "GCD000000XdIJG",
+    "student_course": "11401-006",
+    "category": "Test",
+    "date_assigned": "11/8/2018",
+    "quarter": "Q2"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*AdvEnglish10",
+    "date_due": "11/5/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Dante's Inferno Project and Presentation",
+    "graded": "N",
+    "id": "GCD000000XdICc",
+    "student_course": "11401-006",
+    "category": "Test",
+    "date_assigned": "10/28/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*AdvEnglish10",
+    "date_due": "11/5/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Vocabulary Unit 3 Quiz",
+    "graded": "N",
+    "id": "GCD000000XdIEw",
+    "student_course": "11401-006",
+    "category": "Quiz",
+    "date_assigned": "10/26/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*AdvEnglish10",
+    "date_due": "10/26/2018",
+    "student": "Atkins, Derek W",
+    "assignment": "Annotation Practice with Dante's Inferno",
+    "graded": "N",
+    "id": "GCD000000XdIBG",
+    "student_course": "11401-006",
+    "category": "Homework",
+    "date_assigned": "10/26/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*AdvEnglish10",
     "date_due": "10/26/2018",
     "student": "Atkins, Derek W",
     "assignment": "Vocabulary Unit 3 Homework",
@@ -1105,7 +1157,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "60%",
     "student_class": "*AdvEnglish10",
     "date_due": "10/18/2018",
     "student": "Atkins, Derek W",
@@ -1237,6 +1289,19 @@
   {
     "score": "Ungraded",
     "student_class": "English Reading 5",
+    "date_due": "10/23/2018",
+    "student": "Atkins, Haley J",
+    "assignment": "Reading Test 1",
+    "graded": "N",
+    "id": "GCD000000XI7iE",
+    "student_course": "000510-001",
+    "category": "Unit Tests",
+    "date_assigned": "10/23/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "English Reading 5",
     "date_due": "10/18/2018",
     "student": "Atkins, Haley J",
     "assignment": "Who Am I? Where Am I? Making an Inference",
@@ -1245,19 +1310,6 @@
     "student_course": "000510-001",
     "category": "Classwork/Homework",
     "date_assigned": "10/18/2018",
-    "quarter": "Q1"
-  },
-  {
-    "score": "Ungraded",
-    "student_class": "English Reading 5",
-    "date_due": "10/17/2018",
-    "student": "Atkins, Haley J",
-    "assignment": "Reading Test 1",
-    "graded": "N",
-    "id": "GCD000000XI7iE",
-    "student_course": "000510-001",
-    "category": "Unit Tests",
-    "date_assigned": "10/17/2018",
     "quarter": "Q1"
   },
   {
@@ -1913,7 +1965,7 @@
   {
     "score": "Ungraded",
     "student_class": "Spanish I",
-    "date_due": "10/23/2018",
+    "date_due": "10/25/2018",
     "student": "Atkins, Heath D",
     "assignment": "Lección 1 Chapter test",
     "graded": "N",
@@ -1921,6 +1973,32 @@
     "student_course": "5510-03",
     "category": "Tests",
     "date_assigned": "10/16/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Spanish I",
+    "date_due": "10/23/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Micro Lab-Speaking lab",
+    "graded": "N",
+    "id": "GCD000000Xg65T",
+    "student_course": "5510-03",
+    "category": "Quizzes",
+    "date_assigned": "10/16/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "Spanish I",
+    "date_due": "10/23/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Study for Speaking assessment",
+    "graded": "N",
+    "id": "GCD000000Xg66q",
+    "student_course": "5510-03",
+    "category": "Classwork-Homework",
+    "date_assigned": "10/18/2018",
     "quarter": "Q1"
   },
   {
@@ -2106,7 +2184,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "96%",
     "student_class": "Life Science 7",
     "date_due": "10/18/2018",
     "student": "Atkins, Heath D",
@@ -2402,6 +2480,19 @@
     "student_course": "982807-02",
     "category": "Habits and Journal",
     "date_assigned": "9/11/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "100%",
+    "student_class": "Algebra I A",
+    "date_due": "10/18/2018",
+    "student": "Atkins, Heath D",
+    "assignment": "Solving Inequalities and Quiz Review",
+    "graded": "N",
+    "id": "GCD000000XcZuW",
+    "student_course": "31301-07",
+    "category": "Classwork and Homework",
+    "date_assigned": "10/16/2018",
     "quarter": "Q1"
   },
   {
@@ -3382,6 +3473,58 @@
   {
     "score": "Ungraded",
     "student_class": "*AdvEnglish10",
+    "date_due": "11/13/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Dante Essay",
+    "graded": "N",
+    "id": "GCD000000XdIJK",
+    "student_course": "11401-005",
+    "category": "Test",
+    "date_assigned": "11/7/2018",
+    "quarter": "Q2"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*AdvEnglish10",
+    "date_due": "11/2/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Dante's Inferno Project and Presentation",
+    "graded": "N",
+    "id": "GCD000000XdICg",
+    "student_course": "11401-005",
+    "category": "Test",
+    "date_assigned": "10/25/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*AdvEnglish10",
+    "date_due": "11/2/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Vocabulary Unit 3 Quiz",
+    "graded": "N",
+    "id": "GCD000000XdIF0",
+    "student_course": "11401-005",
+    "category": "Quiz",
+    "date_assigned": "10/23/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*AdvEnglish10",
+    "date_due": "10/25/2018",
+    "student": "Atkins, Matthew L",
+    "assignment": "Annotation Practice with Dante's Inferno",
+    "graded": "N",
+    "id": "GCD000000XdIBK",
+    "student_course": "11401-005",
+    "category": "Homework",
+    "date_assigned": "10/25/2018",
+    "quarter": "Q1"
+  },
+  {
+    "score": "Ungraded",
+    "student_class": "*AdvEnglish10",
     "date_due": "10/25/2018",
     "student": "Atkins, Matthew L",
     "assignment": "Vocabulary Unit 3 Homework",
@@ -3406,7 +3549,7 @@
     "quarter": "Q1"
   },
   {
-    "score": "Ungraded",
+    "score": "100%",
     "student_class": "*AdvEnglish10",
     "date_due": "10/19/2018",
     "student": "Atkins, Matthew L",
